@@ -1,0 +1,65 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "03-1161, 03-1227, 03-1228"
+decided: "2004-04-16"
+citations: ["94 F. App'x 33"]
+judges: ["PRESENT: JACOBS, SACK, and RAGGI, Circuit Judges."]
+parties: ["UNITED STATES of America, Appellant, v. Akbar KHAN, Ali Khan and Fazal Subhan, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/94/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 23515
+cites_cases: ["111 F.3d 1029", "117 Stat. 650", "12 F.3d 368", "18 U.S.C. § 3553", "18 U.S.C. § 3742", "316 F.3d 69", "356 F.3d 261", "364 F.2d 45", "65 F.3d 4", "92 F.3d 1313", "928 F.2d 65", "964 F.2d 124", "999 F.2d 615"]
+---
+
+# United States v. Khan
+
+## Head matter
+
+UNITED STATES of America, Appellant, v. Akbar KHAN, Ali Khan and Fazal Subhan, Defendants-Appellees.
+No. 03-1161, 03-1227, 03-1228.
+United States Court of Appeals, Second Circuit.
+April 16, 2004.
+Carrie Capwell, Assistant United States Attorney, Brooklyn, New York (Roslynn R. Mauskopf, United States Attorney, and David C. James), for Appellant, of counsel.
+Bernard H. Udell, Brooklyn, New York (on submission), for Appellee Akbar Khan.
+Barry G. Rhodes, Brooklyn, New York, for Appellee Ali Khan.
+Clover M. Barrett, Brooklyn, New York, for Appellee Fazal Subhan.
+PRESENT: JACOBS, SACK, and RAGGI, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+The government appeals the sentences of defendants Akbar Khan, Ali Khan, and Fazal Subhan, imposed following conviction by a jury in the United States District Court for the Eastern District of New York (Weinstein, /.), for conspiracy to commit bulk cash smuggling and related substantive offenses. The three were arrested at the airport while boarding a flight to Pakistan, and each falsely denied that his luggage contained large quantities of United State currency. Familiarity is assumed as to the facts, the procedural context, and the specification of appellate issues.
+I. Relevant Conduct
+Count One of the indictment charged all three defendants with conspiring to commit bulk cash smuggling (in excess of $10,000), but it did not specify the precise scope of the conspiracy or the extent of its agreed-upon object. Relevant conduct encompasses “all reasonably foreseeable acts and omissions of others in furtherance of the jointly undertaken criminal activity.” USSG § lBl.SfyXIXB). Whether certain acts were reasonably foreseeable qualifies as a factual finding subject to review for clear error. United States v. Ekwunoh, 12 F.3d 368, 370 (2d Cir.1993).
+At Subhan’s sentencing, the district court found that the conspiracy involved Ah Khan and Akbar Khan helping Subhan smuggle $35,000 from the United States to Pakistan. This finding was not clearly erroneous. Accordingly, the district court properly determined Subhan’s relevant conduct on the basis of $35,000.
+In determining relevant conduct for the two other defendants, the district court relied wholly on the amount that each was transporting without including Subhan’s $35,000. In view of the finding that the conspiracy was to transport Subhan’s $35,000, the omission of that $35,000 from the relevant conduct of Ali Khan and Akbar Khan was clearly erroneous. In Ali Kahn’s case, this omission was harmless because an additional $35,000 would not have altered his base offense level. See USSG §§ 2B1.1(b)(1)(G)-(H), 2S1.3. But the additional $35,000 would have increased Akbar Khan’s base offense level from 16 to 18. See id. §§ 2B1.1(b)(1)(F)-(G), 2S1.3.
+II. Acceptance of Responsibility
+A district court’s determination regarding acceptance of responsibility pursuant to USSG § 3El.l(a) is ordinarily reviewed for clear error. United States v. Rodriguez, 928 F.2d 65, 67 (2d Cir.1991). But “to the extent that an application of the Guidelines is influenced by a mistaken view of the law, our review is plenary.” Id.
+Both Akbar Khan and Subhan went to trial and contested their factual guilt; the district court found that they accepted responsibility essentially on the basis of remorse and responsibility that was manifested after their convictions. Reducing a defendant’s offense level for acceptance of responsibility is “rare” in such circumstances and requires some exceptional justification. See United States v. Taylor, 92 F.3d 1313, 1335 (2d Cir.1996); United States v. Castano, 999 F.2d 615, 617 (2d Cir.1993) (per curiam). Because the district court has specified no such justification, its acceptance findings were without foundation and therefore were clearly erroneous. The two-point reductions in Akbar Khan’s and Subhan’s offense levels were improper.
+If and when Akbar Khan is re-sentenced, the district court may not credit him for acceptance of responsibility. As to Subhan, however, the district court found, and the government does not challenge, that a downward departure is appropriately based on Subhan’s limited mental capacity. The government concedes therefore that its appeal from the finding that Subhan accepted responsibility would be mooted if we affirm Subhan’s relevant conduct. We have, and Subhan’s sentence therefore is affirmed.
+III. Downward Departures
+A district court may depart from a defendant’s guideline range where it “finds ‘that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission.’ ” USSG § 5K2.0, p.s. (quoting 18 U.S.C. § 3553(b)). This Court reviews de novo whether a ground relied on for a downward departure is a permissible one, a standard that is unaffected by enactment of the Prosecutorial Remedies and Other Tools to End the Exploitation of Children Today Act of 2003 (“PROTECT Act”), Pub.L. No. 108-21, § 401(d), 117 Stat. 650, 670-71 (codified at 18 U.S.C. § 3742(e)). United States v. Stultz, 356 F.3d 261, 264 (2d Cir.2004). Likewise, the Court continues to review for clear error the factual findings that underlie a district court’s decision to depart. Compare United States v. Barresi, 316 F.3d 69, 72 (2d Cir.2002) (pre-PROTECT Act), with 18 U.S.C. § 3742(e) (post-PROTECT Act). But under the PROTECT Act, this Court now reviews de novo the district court’s decision that the facts justify a departure, and this provision is retroactive to cases, such as this one, in which the PROTECT Act became law after sentencing but during the pendency of appeal. United States v. Kostakis, 364 F.2d 45, 47 (2d Cir.2004).
+A. Akbar Khan
+The district court permissibly granted Akbar Khan a downward departure based on aberrant behavior. But it erroneously departed on account of his family circumstances and on the basis of cultural assimilation (i.e., “American roots may subject him to pressure when he returns to Pakistan”). In addition, Akbar Khan’s “frustration” and his intent to leave the country were impermissible bases for departure.
+1. Aberrant Behavior
+A downward departure may be appropriate in exceptional circumstances where a defendant’s criminal conduct qualifies as “aberrant behavior.” USSG § 5K2.20. “ ‘Aberrant behavior’ means a single criminal occurrence or single criminal transaction that (A) was committed without significant planning; (B) was of limited duration; and (C) represents a marked deviation by the defendant from an otherwise law-abiding life.” Id. cmt. n. 1.
+The money that Akbar Khan was expatriating for himself was evidently accumulated by his own honest labors, and the planning consisted of little more than wrapping the cash in sealed parcels and putting them in his luggage. The district court therefore properly determined that its factual findings, which are not clearly erroneous, justified a downward departure. Accordingly, if and when Akbar Khan is re-sentenced, the district court may depart downwardly on this ground.
+2. Family Circumstances
+A departure based on family ties and responsibilities is permissible only in exceptional circumstances. USSG § 5H1.6, p.s.; see United States v. Galante, 111 F.3d 1029, 1034 (2d Cir.1997) (characterizing this ground as “a discouraged basis for departure”); United States v. Johnson, 964 F.2d 124, 128-29 (2d Cir.1992).
+Akbar Khan had not seen his wife and children in the eleven years since he left Pakistan, and he conceded that his three brothers would support his wife if he went to jail and could not send money. His family situation therefore does not transcend the usual “concomitant difficulties for those who depend on [an incarcerated] defendant,” id. at 128, and does not approach the extraordinary circumstances present in cases such as Johnson. Accordingly, the district court erroneously departed on this basis.
+3. Other Grounds
+Akbar Khan’s unilateral statement of intent to leave the United States without returning does not mitigate his offense or take him outside the heartland of cases.
+Akbar Khan’s “frustration” caused by losing his savings was likewise an impermissible ground for departure. As the government explains, “[t]he only reason the defendant lost that money is because he knowingly and willfully violated the currency reporting requirements.”
+Last, the district court’s downward departure on the basis of cultural assimilation was erroneous — particularly since the defendant already planned to leave the country.
+B. Ali Khan
+On the current record, the district court erroneously granted a downward departure based on Ali Khan’s family circumstances and on account of his business and employees.
+1. Family Circumstances
+While it is possible that exceptional family circumstances may exist here, the district court’s departure was erroneous based on the current record. The record does not suggest that Ali Khan was the primary — let alone sole — support of any of the many people that he claims to support. The record similarly shows nothing as to how Ali Khan’s incarceration would affect those individuals. Curiously, the expense portion of Ali Khan’s monthly net cash flow statement, which he submitted prior to sentencing as part of his personal financial statement, omits any mention of funds that he sends to support his extended family-
+2. Business and Employees
+“[B]usiness ownership alone, or even ownership of a vulnerable small business, does not make downward departure appropriate”; but a “departure may be warranted where ... imprisonment would impose extraordinary hardship on employees.” United States v. Milikowsky, 65 F.3d 4, 9 (2d Cir.1995). The Milikowsky Court upheld a downward departure based on extensive documentary and testimonial evidence demonstrating that the defendant was indispensable to his two companies and to the continuing employment of more than 150 individuals. Id. at 8-9.
+It is possible, as the district court found, that Ali is “the main spring in the enterprise and that it will not succeed without him”; but the record does not support the district court’s decision to depart on this basis. Even though Ali maintains that “[h]e attends to the purchasing and every other detail” of the twelve-employee business, he testified also that one of his partners handles most of the paperwork. Ali concedes that the facts of his case are not as compelling as in Milikowsky. There is nothing in the record, other than Ali’s self-serving and somewhat contradictory claims, indicating that Ali has unique skills essential to this enterprise, or that his two partners could not hire a new manager or do the work themselves.
+The current record does not support either basis, family or business circumstances, on which the district court granted Ali Khan a downward departure. On remand, therefore, the court should conduct further fact-finding necessary to reassess whether a downward departure is appropriate and then should re-sentence Ali Khan consistent with this order and any additional findings that the court makes.
+Because Akbar Khan has been deported, the district court should vacate his sentence and re-sentence him only if and when he [i] reenters the country, or [ii] waives, pursuant to Fed.R.Crim.P. 43(c)(2), his right to be present. See 18 U.S.C. § 3742(f)(1). In re-sentencing Akbar Khan consistent with this order, the district court must include Subhan’s $35,000 as relevant conduct and may not credit Akbar Khan for acceptance of responsibility; furthermore, aberrant behavior is the only permissible basis for departing downwardly from his guideline range.
+Last, while no party has cited USSG § 2S1.3(b)(2), and the district court did not rely on it, our remand does not foreclose application of this provision, assuming appropriate showings and findings.
+For the foregoing reasons, Fazal Subharis sentence is AFFIRMED, and Ali Kharis sentence is VACATED and REMANDED for further proceedings consistent with this order. In addition, the sentence of Akbar Khan is REMANDED; if and when he returns to the United States and is brought before the court or when he consents to be re-sentenced without being present, the district court shall VACATE his sentence and re-sentence him consistent with this order.
+. All citations to the Sentencing Guidelines are to the manual effective November 1, 2001.
