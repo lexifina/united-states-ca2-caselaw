@@ -1,0 +1,41 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "01-0183"
+decided: "2002-03-14"
+citations: ["31 F. App'x 34"]
+parties: ["Derrick CALDWELL, Plaintiff-Appellant, v. Peter DAVIS, P.O., DefendantAppellee, Housing Police Department of the City of New York, New York City Police Department, New York City, Defendants."]
+source_url: "https://static.case.law/f-appx/31/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 434594
+cites_cases: ["157 F.3d 139", "232 F.3d 92", "42 U.S.C. § 1983"]
+---
+
+# Caldwell v. Davis
+
+## Head matter
+
+Derrick CALDWELL, Plaintiff-Appellant, v. Peter DAVIS, P.O., DefendantAppellee, Housing Police Department of the City of New York, New York City Police Department, New York City, Defendants.
+Docket No. 01-0183.
+United States Court of Appeals, Second Circuit.
+March 14, 2002.
+Derrick Caldwell, pro se, Stormville, NY, for Appellant.
+Michael D. Hess, Corporation Counsel of the City of New York, New York, NY, for Appellees.
+Present CALABRESI and CABRANES, Circuit Judges, and AMON, District Judge.
+The Honorable Carol Bagley Amon, of the United States District Court for the Eastern District of New York, sitting by designation.
+
+## Majority
+
+SUMMARY ORDER
+UPON DUE CONSIDERATION, it is ORDERED, ADJUDGED, AND DECREED that the judgment of the district court be and it hereby is AFFIRMED.
+Derrick Caldwell appeals from decisions of the United States District Court for the Eastern District of New York (Cohn, /.), which denied two separate motions brought pursuant to Rule 50(b) of the Federal Rules of Civil Procedure by Caldwell who sought judgment as a matter of law on his claim of police brutality.
+On November 14, 1991, Caldwell was arrested in his apartment. Police officers had gone to Caldwell’s apartment to question him about a matter unrelated to the instant suit. The officers were denied entry to the apartment by his family. Once the officers returned outside, they were fired upon by someone in the building. Believing that the shots came from Caldwell, the officers returned the fire and shattered a window in his apartment. At that time, Caldwell was watching out the window and the glass collapsed on his head.
+Police officers from the Emergency Services Unit (ESU), including Officer Davis and his dog “Rambo,” responded to a report that two officers had been fired upon. The ESU officers secured the hallway outside the apartment and ordered the occupants to come out. Everyone did so except for Caldwell. He wedged himself inside the frame of a living room couch. Officer Davis warned Caldwell that if he did not leave the apartment peacefully, a trained police dog would be sent into the apartment. When Caldwell remained inside, Officer Davis released Rambo. Soon, the officers heard ripping sounds, barking, and a human voice. They entered the apartment and observed Rambo partly inside the couch biting and grabbing Caldwell. According to Officer Davis and a fellow police officer, Officer Davis immediately ordered Rambo to stop. Caldwell told the officers he was stuck inside the couch’s frame. ESU officers turned the couch on its side and tore it apart to pull Caldwell out.
+The officers testified that after removing Caldwell, they observed cuts on his head, glass fragments in his hair, and lacerations on his foot. In his incident report, Officer Davis listed Rambo as the cause of Caldwell’s injuries. An Emergency Medical Technician and a physician’s assistant who treated Caldwell testified at trial that they listed Caldwell’s injuries as dog bites based upon information provided by Caldwell at the time of treatment.
+Caldwell testified that he was pulled from the couch without injury. He further stated that, once he was out, the officers punched and kicked him while Rambo was permitted to bite his legs and face. Based upon these allegations, Caldwell brought this 42 U.S.C. § 1983 action claiming that Officer Davis had used excessive force in arresting him.
+At the close of the defendant’s case during the trial, the court denied Caldwell’s Rule 50 motion for judgment as a matter of law. The jury thereupon returned a verdict in favor of Officer Davis on all of Caldwell’s claims. Caldwell renewed his motion for judgment as a matter of law, and moved, alternatively, for a new trial pursuant to Rule 59. In his motions, Caldwell argued that he was not complaining of excessive force based upon events occurring before his arrest. Rather, he contended that because the violation happened after he was removed from the couch and because the medical reports as well as his own testimony identified dog bites as the cause of injury, his wounds could have only been inflicted by Rambo (or the officers) after Caldwell had surrendered. He concluded that the jury’s verdict was irrational speculation.
+The court denied Caldwell’s Rule 50(b) motion. It also denied his Rule 59 motion with respect to the claims alleging that police officers had hit Caldwell after he was in custody. With respect to the dog bite claim, however, the court granted Caldwell a new trial. The court found that the medical and incident reports, which were indicative of excessive force, created sufficient evidence to call the jury’s verdict into serious question.
+During the second trial, the evidence was substantially the same as that given in the initial trial, apart from one issue. Unlike the first jury which had heard evidence that Caldwell was convicted of reckless endangerment for firing the shots at the officers, the second jury only learned that Caldwell had been convicted of an unspecified felony. As before, Caldwell moved for judgment as a matter of law at the close of evidence. Once again, the court denied the motion and the jury found for Officer Davis.
+After the verdict, Caldwell filed a second Rule 50(b) motion as well as another Rule 59 motion. Both motions were denied. The district court noted that while it might well have reached a different decision if it had been the trier of fact, the jury’s verdict was not wrong enough to support a judgment as a matter of law for Caldwell, or to justify providing Caldwell the opportunity to persuade a third jury. Specifically, the court noted that the jury could have reasonably believed Officer Davis’s testimony that once the ESU team entered the apartment, Rambo was called off Caldwell and had, thereafter, stayed with Officer Davis throughout the remainder of Caldwell’s arrest. Caldwell now appeals the district court’s Rule 50(b) decisions in both the first and second trials.
+We review a district court’s denial of a Rule 50 motion de novo. Diesel v. Town of Lewisboro, 232 F.3d 92, 103 (2d Cir.2000). A motion will not be granted unless “the evidence is such that, without weighing the credibility of the witnesses or otherwise considering the weight of the evidence, there can be but one conclusion as to the verdict that reasonable [persons] could have reached.” This is Me, Inc. v. Taylor, 157 F.3d 139, 142 (2d Cir.1998) (alteration in original and internal quotation marks omitted). This standard is only met when “there is such a complete absence of evidence supporting the verdict that the jury’s findings could only have been the result of sheer surmise and conjecture, or such an overwhelming amount of evidence in favor of the movant that reasonable and fair minded [people] could not arrive at a verdict against” the moving party. Diesel, 232 F.3d at 103 (internal quotation marks omitted).
+The parties dispute whether Officer Davis permitted the police dog to continue biting Caldwell once the suspect was in custody and subdued. After considering conflicting testimony and evidence on this issue, two separate juries rendered a verdict in favor of Officer Davis. We cannot say that these verdicts were irrational or speculative. Each jury could have reasonably found that Officer Davis’s testimony was credible and that Caldwell’s injuries were caused by falling glass, by Rambo’s bites while Caldwell was in the couch, or by the couch’s frame as Caldwell was pulled out.
+Having reviewed all of plaintiffs claims and finding them to be without merit, we AFFIRM the judgment of the district court.
