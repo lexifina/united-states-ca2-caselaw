@@ -1,0 +1,38 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "02-7990(L), 02-7993(CON)"
+decided: "2003-05-13"
+citations: ["63 F. App'x 21"]
+judges: ["Present: FEINBERG, KATZMANN, Circuit Judges, and MURTHA, District Judge."]
+parties: ["I.B. and E.B., on behalf of their minor child, Z.B.; and D.C. on behalf of her minor child, J.F., Plaintiffs-Appellees, v. NEW YORK CITY DEPARTMENT OF EDUCATION Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/63/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9124136
+cites_cases: ["158 F.3d 205", "173 F.3d 77", "20 U.S.C. § 1415", "20 U.S.C. §§ 1400-1487", "2003 WL 21639069", "278 F.3d 119", "465 U.S. 886", "489 U.S. 87", "907 F.2d 165"]
+---
+
+# I.B. ex rel. Z.B. v. New York City Department of Education
+
+## Head matter
+
+I.B. and E.B., on behalf of their minor child, Z.B.; and D.C. on behalf of her minor child, J.F., Plaintiffs-Appellees, v. NEW YORK CITY DEPARTMENT OF EDUCATION Defendant-Appellant.
+Nos. 02-7990(L), 02-7993(CON).
+United States Court of Appeals, Second Circuit.
+May 13, 2003.
+Michael D. Hampden, Legal Services for Children, Inc., New York, NY, for Plaintiffs-Appellees I.B. and E.B., on behalf of their minor child, Z.B.; and D.C. on behalf of her minor child, J.F.
+Kristin M. Helmers (Pamela Dolgow, Martin Bowe, on the brief), for Michael A. Cardozo, Corporation Counsel of the City of New York, New York, NY, for Defendant-Appellant New York City Department of Education.
+Present: FEINBERG, KATZMANN, Circuit Judges, and MURTHA, District Judge.
+To be published in full at 2003 WL 21639069.
+. The Honorable J. Garvan Murtha of the United States District Court for the District of Vermont, sitting by designation.
+
+## Majority
+
+Summary Order
+ORDERED, ADJUDGED AND DECREED that the judgment of the District Court is AFFIRMED.
+The Plaintiffs in this appeal were prevailing parties in local administrative proceedings conducted pursuant to the Individuals with Disabilities Education Act, 20 U.S.C. §§ 1400-1487 (2000). Both were represented in the proceedings by Michael D. Hampden, a distinguished attorney with over thirty years of experience in litigating and supervising other litigators. Following the successful resolution of their disputes, the Plaintiffs sought attorney’s fees from the Department of Education (“DOE”) in the amount of $250 per hour. The parties negotiated but found themselves unable to reach a mutually satisfactory figure. The Plaintiffs then filed a complaint, pursuant to 20 U.S.C. § 1415(i)(3)(b), in the United States District Court for the Eastern District of New York, in order to obtain their fees. The District Court adopted the recommendation of the magistrate judge awarding plaintiffs fees at the full $250 hourly rate. This appeal followed.
+We review “a district court’s award of attorneys’ fees under the IDEA for abuse of discretion.” J.C. v. Reg’l Sch. Dist. 10, Bd. of Educ., 278 F.3d 119, 123 (2d Cir.2002) (citing G.M. v. New Britain Bd. of Educ., 173 F.3d 77, 80 (2d Cir.1999)). We review de novo the District Court’s interpretation of the relevant fee statute itself. Id. A district court must calculate fees using the “ ‘lodestar’ approach, whereby an attorney fee award is derived ‘by multiplying the number of hours reasonably expended on the litigation times a reasonable hourly rate.’ ” G.M., 173 F.3d at 84 (quoting Blanchard v. Bergeron, 489 U.S. 87, 94, 109 S.Ct. 939, 103 L.Ed.2d 67 (1989)). We interpret the IDEA fee provisions in consonance with those of other civil rights fee-shifting statutes. J.C., 278 F.3d at 124. Thus, in determining the “reasonable hourly rate,” we ask whether “the requested rates are in fine with those prevailing in the community for similar services by lawyers of reasonably comparable skill, experience and reputation.” Blum v. Stenson, 465 U.S. 886, 895 n. 11, 104 S.Ct. 1541, 79 L.Ed.2d 891 (1984).
+The DOE contends that the District Court erred in determining the reasonableness of the $250 hourly figure by considering as points of comparison rates paid in general federal litigation in the Eastern District of New York, rather than rates charged specifically in state administrative hearings. We need not reach that question. The magistrate judge in fact considered evidence of what other counsel charge “at Impartial Hearings.” We therefore fail to understand the DOE’s challenge to the District Court’s market definition. One might, however, read the DOE’s argument as a contention that the District Court abused its discretion by failing to reduce the lodestar figure to reflect the fact that these proceedings required less skill or expertise than the average comparable case. We find this alternative formulation unpersuasive as well. These cases might, arguably, have been resolved more readily than the average federal civil rights suit. The DOE itself contends, however, the relevant point of comparison is other state administrative proceedings. We see nothing in the record to show that these two cases were simpler than the average impartial hearing.
+Nor did the District Court abuse its discretion in crediting the plaintiffs’ evidence over the evidence offered by the DOE. As the DOE admits, its own affiant declared that “attorneys who represent parents and students in administrative impartial hearings ... charge approximately $200 per hour.” This is the same lodestar rate the magistrate recommended. The DOE’s contrary evidence came from data tracking the fees it had paid to counsel appearing in its administrative hearings. However, the Plaintiffs offered unrefuted evidence that these attorneys often supplement the fees paid them by the Board with money they charge their clients, so that the actual rate is substantially above the DOE’s figures.
+The DOE also challenges the District Court’s adjustment of the lodestar figure upwards to reflect Mr. Hampden’s considerable experience. It first argues, cursorily, that the statutory language of the IDEA prohibits such adjustments. We have repeatedly held that we apply the full Eckerhart procedure to IDEA fee awards. See, e.g., J.C., 278 F.3d at 124; see also Jason D.W. v. Houston Indep. Sch. Dist., 158 F.3d 205, 208 (5th Cir.1998) (holding that “the legislative history of the IDEA indicates that this attorneys’ fees provision should be interpreted in accordance with Hensley v. Eckerhart”); Moore v. District of Columbia, 907 F.2d 165, 173 & n. 14 (D.C.Cir.1990) (holding that Congress intended for IDEA to be “interpreted consistent with fee provisions of statutes such as title VII of the Civil Rights Act of 1964”). We therefore reject the DOE’s argument. See Eckerhart, 461 U.S. at 430 n. 3 (identifying “the experience, reputation, and ability of the attorneys” as a factor that may determine the ultimate fee award).
+DOE also contends that the adjustment was an abuse of discretion, because Hampden’s experience with this particular type of litigation was limited. We think it entirely obvious that most important legal skills are transferrable, and, unsurprisingly, DOE is unable to identify any caselaw to the contrary. Moreover, the Plaintiffs offered evidence that Hampden had experience in this area of law since at least 1993. Finally, the Plaintiffs offered evidence that highly experienced counsel in the Eastern District of New York had been paid at $250 per hour, and the DOE introduced nothing at all in response. The District Court did not abuse its discretion in crediting the undisputed evidence before it.
+Therefore, for the reasons stated above, the judgment of the District Court is hereby Affirmed.
