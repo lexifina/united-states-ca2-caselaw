@@ -1,0 +1,34 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "s. 99-169(L), 00-1368, 00-1385"
+decided: "2001-11-19"
+citations: ["27 F. App'x 54"]
+parties: ["UNITED STATES of America, Appellee, v. Melvin WEINTRAUB, John Dawson, Morelite Dev & Const, Inc, and Liberty Realty Associates, LLC, Defendants-Appellants."]
+source_url: "https://static.case.law/f-appx/27/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1962074
+cites_cases: ["18 U.S.C. § 2", "194 F.3d 37", "198 F.3d 377", "21 F.3d 1228", "224 F.3d 107", "386 U.S. 738", "40 C.F.R. §§ 61.145", "42 U.S.C. § 7418"]
+---
+
+# United States v. Weintraub
+
+## Head matter
+
+UNITED STATES of America, Appellee, v. Melvin WEINTRAUB, John Dawson, Morelite Dev & Const, Inc, and Liberty Realty Associates, LLC, Defendants-Appellants.
+Docket Nos. 99-169(L), 00-1368, 00-1385.
+United States Court of Appeals, Second Circuit.
+Nov. 19, 2001.
+Barry A. Bohrer, Morvillo, Abramowitz, Grand, Iason & Silberberg, P.C.; James C. Dugan, on the brief, New York, NY, for appellant Weintraub.
+James T. Cowdery, Cowdery, Ecker & Murphy, L.L.C., Hartford, CT, for appellants Morelite and Liberty.
+Jeffrey A. Meyer, Assistant United States Attorney; Stephen C. Robinson, United States Attorney for the District of Connecticut, on the brief, New Haven, CT, for appellee.
+Present WALKER, Chief Judge, OAKES and POOLER, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the judgment of said district court be and it hereby is AFFIRMED.
+Defendants-appellants Melvin Wein-traub (‘Weintraub”) and Morelite Development and Construction, Inc. (“Morelite”) and Liberty Realty Associates (“Liberty”) (collectively “Corporate Defendants”) appeal from three May 11, 2000 judgments of the United States District Court for the District of Connecticut (Arterton, /.) convicting them after a jury trial of multiple counts of conspiring to violate, and substantive violations of, the Clean Air Act (“CAA”), 42 U.S.C. § 7418(c), and regulations promulgated thereunder, 40 C.F.R. §§ 61.145, 61.150. On May 11, 2000, the district court sentenced Weintraub to imprisonment for 12 months and one day, to be followed by three years supervised release, and a $250,000 fine. The court sentenced Dawson to 13 months incarceration, to be followed by three years of supervised release and a $10,000 fine. The court sentenced each Corporate Defendant to five years probation, a $300,000 fíne, and restitution of $16,600, jointly and severally between the Corporate Defendants, to pay for medical monitoring for workers exposed to asbestos. Finally, the court sentenced all of the defendants jointly and severally to restitution of $6,534.08, payable to the City of New Haven and Amtrak. Weintraub, Dawson, and the Corporate Defendants appealed. We decide Weintraub’s appeal in a separate opinion filed simultaneously with this order. The reader’s attention is directed to that opinion for a complete statement of the facts. In another simultaneous order, we grant a motion by counsel for appellant Dawson pursuant to Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967), seeking to withdraw from his representation of Dawson, and we accordingly grant the government’s motion for summary dismissal of Dawson’s appeal.
+The Corporate Defendants argue first that the district court should have granted their motion to dismiss the indictment for its failure to allege all the requisite elements of the charged offenses. They contend that Counts Two through Seven of the indictment, alleging various substantive violations of the provisions of the CAA and its accompanying regulations relevant to the removal of asbestos, failed to allege the presence of “regulated asbestos containing material” and the quantities of that material necessary to trigger the regulations. To the contrary, however, the introduction to the indictment identified the characteristics of asbestos that must be present to render the asbestos regulations applicable. The Corporate Defendants’ claim that those requirements were not stated in each Count of the indictment is (1) inaccurate, given each Count’s incorporation by reference of all preceding paragraphs, and (2) irrelevant, given that the obvious implication of the alleged violations in each Count was that the requirements of the regulations, described in the introduction, had not been met. Accordingly, the indictment provided the defendants with sufficient notice of the charges pending against them. See United States v. Walsh, 194 F.3d 37, 44 (2d Cir.1999).
+Liberty also argues that the district court improperly allowed the government to make a constructive amendment of the indictment midcourse, by allowing the government to seek conviction of Liberty on an aiding-and-abetting theory of liability. We have held that “inclusion of an aiding and abetting charge to the jury will rarely, if ever, constructively amend an indictment because an aiding and abetting charge is arguably implicit in every indictment.” United States v. Mucciante, 21 F.3d 1228, 1234 (2d Cir.1994). We do not believe that this is such a “rare” case. Liberty could not have been surprised by the government’s reliance on the aiding- and-abetting theory because the indictment cited the aiding-and-abetting statute (albeit initially for other purposes), 18 U.S.C. § 2, and because the government indicated as early as a month before trial that it intended to pursue such a theory. See United States v. Berger, 224 F.3d 107, 117 (2d Cir.2000) (“[W]e have consistently permitted significant flexibility in proof, provided that the defendant was given notice of the core of criminality to be proven at trial.”) (internal quotation marks omitted).
+Finally, the Corporate Defendants contend that the district court erroneously failed to instruct the jury that a corporation cannot conspire with its agents. Even assuming arguendo that the “intracorporate conspiracy doctrine” urged by the Corporate Defendants applies in the present setting, they have not shown that “viewing as a whole the charge actually given, [they were] prejudiced.” United States v. Smith, 198 F.3d 377, 386 (2d Cir.1999) (quotation marks omitted). They have not shown that the jury was misled into convicting the Corporate Defendants of conspiring with their agents, Weintraub, Napolitano, and others. Because the jury could have convicted the Corporate Defendants derivatively for the conspiracy among their agents, the Corporate Defendants’ claim that their conviction might have been based on an intracorporate conspiracy theory is merely surmise.
+We have considered the remainder of appellants’ claims and find them to be without merit. For the foregoing reasons, the judgment of the district court is hereby AFFIRMED.
