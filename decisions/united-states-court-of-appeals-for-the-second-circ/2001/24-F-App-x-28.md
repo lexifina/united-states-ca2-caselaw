@@ -1,0 +1,33 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "00-9470"
+decided: "2001-11-14"
+citations: ["24 F. App'x 28"]
+parties: ["Peter SUDARSKY and Nominee Trading Corporation, d/b/a 225-227 East East 52nd Street Associates, Plaintiffs, Peter Sudarsky, Plaintiff-Appellant, v. The CITY OF NEW YORK, The New York Planning Commission, The New York City Department of City Planning, The New York City Transportation Authority, and The Metropolitan Transportation Authority, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/24/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 280834
+cites_cases: ["247 A.D.2d 206", "477 U.S. 340", "520 U.S. 725", "668 N.Y.S.2d 350", "779 F.Supp. 287"]
+---
+
+# Sudarsky v. City of New York
+
+## Head matter
+
+Peter SUDARSKY and Nominee Trading Corporation, d/b/a 225-227 East East 52nd Street Associates, Plaintiffs, Peter Sudarsky, Plaintiff-Appellant, v. The CITY OF NEW YORK, The New York Planning Commission, The New York City Department of City Planning, The New York City Transportation Authority, and The Metropolitan Transportation Authority, Defendants-Appellees.
+No. 00-9470.
+United States Court of Appeals, Second Circuit.
+Nov. 14, 2001.
+Peter Sudarsky, New York, NY, pro se, David J. Bederman, Esq., Atlanta, GA, for plaintiff-appellant.
+Sharyn Rootenberg, Assistant Corporation Counsel; Michael D. Hess, Corporation Counsel, Larry A. Sonnenshein, Louise Moed, Assistant Corporation Counsels, on the brief, New York, NY, for municipal defendants-appellees. Ira J. Lipton; Mary Jennings Mahon, Deputy Executive Director and General Counsel, Metropolitan Transportation Authority, New York, NY, for transit defendantsappellees.
+Present POOLER, KATZMANN, Circuit Judges and HURD, District Judge.
+The Honorable David N. Hurd of the United States District Court for the Northern District of New York, sitting by designation.
+
+## Majority
+
+SUMMARY ORDER
+ON CONSIDERATION WHEREOF, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the District Court be and it hereby is AFFIRMED.
+Plaintiff-appellant Peter Sudarsky appeals from the October 26, 2000, judgment of the United States District Court for the Southern District of New York (Barbara S. Jones, Judge) dismissing his complaint principally on grounds of res judicata. Sudarsky filed his complaint on October 29,1999, raising many of the allegations he prosecuted in a federal lawsuit filed in 1989 and a state court lawsuit filed in 1993. All of the litigation stems from Sudarsky’s attempt to develop eight lots on East 52nd and East 53rd streets in Manhattan into a single 17-story apartment building. During the planning process, city officials informed Sudarsky that they required a transit easement on his property for an underground pedestrian tunnel for subway passengers. While Sudarsky negotiated the easement, the city’s Board of Estimate in October 1987 “downzoned” the area including Sudarsky’s property to prohibit construction of buildings taller than eight stories. Sudarsky did not seek a variance or submit another building proposal to the city but instead sold his properties in 1988. Although defendants claim that Sudarsky approximately recovered his purchase price of $12 million, Sudarsky claims to have lost $10 million in development costs.
+The key points of Sudarsky’s litigation are as follows. Plaintiff filed a lawsuit in federal court, which the district court dismissed in 1991. Sudarsky v. City of New York, 779 F.Supp. 287 (S.D.N.Y.1991). In its 1991 decision, the district court dismissed on the merits Sudarsky’s causes of action under substantive due process, procedural due process and equal protection theories. With respect to plaintiffs allegations that defendants’ actions were an unconstitutional taking, the district court first held on the merits that requiring a transit easement was not an impermissible condition on a building permit. Id. at 299. The district court also held that plaintiffs regulatory takings claim was not ripe because (1) he failed to obtain a final and authoritative determination from the city regarding what development it would permit on Sudarsky’s property; and (2) he failed to use the state court system to seek just compensation for his property. Id. at 300-01. Sudarsky then filed a lawsuit in state court pressing, among other things, his regulatory takings claim. The New York courts ultimately dismissed the lawsuit in 1997 because plaintiff failed to file a notice of claim with the city. Sudarsky v. City of New York, 247 A.D.2d 206, 668 N.Y.S.2d 350 (1st Dep’t 1998). Importantly, the state court refused to give Sudarsky permission to file a late notice of claim because he failed to adequately explain his delay and his lawsuit was “without substantive merit.” Id. at 351. Sudarsky then brought the present lawsuit in federal court.
+On appeal, Sudarsky claims that his second federal complaint is justiciable because neither the federal court nor state court dismissed his regulatory takings claim on the merits. In order to state a claim for regulatory takings, plaintiff must show first that the regulation has taken his property by going “too far” and second that any proffered compensation is not just. McDonald, Sommer & Frates v. County of Yolo, 477 U.S. 340, 348, 106 S.Ct. 2561, 91 L.Ed.2d 285 (1986). Plaintiff under no set of facts can satisfy the first element of his claim. While the 1991 district court decision used the term “unripe” to describe its dismissal of Sudarsky’s claim for his failure to obtain a determination of the property’s permitted uses, it now is undisputed that plaintiff never will be able to do so because he sold the property before obtaining the required determination. Plaintiff never requested a variance from the new zoning requirements, or submitted a proposal other than his original 17 story apartment building. In other words, plaintiff never will be able to show that the city’s downzoning went too far in prohibiting development of his property. His claim never will be “ripe.” Contrary to plaintiffs suggestion, this holding is consistent with Supreme Court precedent. See Suitum v. Tahoe Reg’l Planning Agency, 520 U.S. 725, 733-39, 117 S.Ct. 1659, 137 L.Ed.2d 980 (1997). Unlike the case before us, the land use regulation in Suitum was much more restrictive, permitting no development at all on plaintiffs land, which gave rise to the finality necessary for ripeness. Dismissal under Fed.R.Civ.P. 12(b)(6) was proper.
+We have considered all of plaintiff-appellant’s remaining arguments and find them to be without merit.
