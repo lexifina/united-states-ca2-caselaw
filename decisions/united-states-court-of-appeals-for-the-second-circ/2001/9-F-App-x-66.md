@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "00-7506"
+decided: "2001-05-15"
+citations: ["9 F. App'x 66"]
+judges: ["Present McLAUGHLIN, SACK, Circuit Judges, CHATIGNY, District Judge."]
+parties: ["Jose Alberto OCASIO, Plaintiff-Appellant, v. FASHION INSTITUTE OF TECHNOLOGY, Joan Volpe, Barbara Janoff, Barbara Lovato, and Carol Desantis, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/9/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 143958
+cites_cases: ["153 F.3d 34", "28 U.S.C. §§ 455", "510 U.S. 540", "829 F.2d 326", "84 F.3d 522", "841 F.2d 41", "921 F.2d 450", "954 F.2d 811"]
+---
+
+# Ocasio v. Fashion Institute of Technology
+
+## Head matter
+
+Jose Alberto OCASIO, Plaintiff-Appellant, v. FASHION INSTITUTE OF TECHNOLOGY, Joan Volpe, Barbara Janoff, Barbara Lovato, and Carol Desantis, Defendants-Appellees.
+No. 00-7506.
+United States Court of Appeals, Second Circuit.
+May 15, 2001.
+Jose Albert Ocasio, New York, NY, pro se.
+Andrea Green, McGuire, Kehl & Nealon, LLP, New York, NY, for appellee.
+Present McLAUGHLIN, SACK, Circuit Judges, CHATIGNY, District Judge.
+Of the United States District Court for the District of Connecticut, sitting by designation.
+
+## Majority
+
+SUMMARY ORDER
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the judgment of the district court be, and it hereby is, AFFIRMED.
+Jose Alberto Ocasio, plaintiff-appellant pro se, appeals from the judgment of the United States District Court for the Southern District of New York (Sprizzo, J.) denying his motion for recusal and granting the defendants’ motion to dismiss the complaint pursuant to Fed.R.Civ.P. 12(b)(6).
+In July 1995, Ocasio was fired from his position as a clerk at the Fashion Institute of Technology (“FIT”). Ocasio filed complaints with the New York State Division of Human Rights (“SDHR”) and the Employment Opportunity Commission (“EEOC”), alleging that he was terminated on the basis of his “race/color and sex.” Both agencies concluded that Ocasio was not a victim of discrimination, and the EEOC issued a right-to-sue letter on February 11, 1998. Ocasio timely filed a complaint with the district court, but failed to perfect service of process within 120 days as required by Fed.R.Civ.P. 4(m). The district court therefore dismissed his first complaint without prejudice.
+On July 26, 1999, Ocasio filed a second complaint raising the same claims against the same defendants. The district court granted the defendants’ subsequent request for an extension of time in which to respond to the complaint and allowed the defendants to file a motion to dismiss without first attending a pre-argument conference as required by the judge’s individual rules. The defendants then moved to dismiss Ocasio’s second complaint as untimely. Ocasio responded with a motion for recusal, arguing that Judge Sprizzo was biased in favor of the defendants. The district court denied that motion without prejudice because Ocasio had faded to request a pre-motion conference. Ocasio subsequently re-filed essentially the same motion. On March 9, 2000, the district court denied Ocasio’s recusal motion and granted the defendants’ motion to dismiss the second complaint. Ocasio challenges both rulings on appeal.
+We review a district court’s ruling on a recusal motion for abuse of discretion. See United States v. Morrison, 153 F.3d 34, 48 (2d Cir.1998). Ocasio moved for recusal under 28 U.S.C. §§ 455(a), 455(b)(1), and 144. Sections 455(b)(1) and 144 require recusal of a judge who has a “personal bias” for or against any party, and only where bias is evident from “extrajudicial conduct” as distinct from “conduct which arises in a judicial context.” Apple v. Jewish Hosp. and Med. Ctr., 829 F.2d 326, 333 (2d Cir.1987). Because Ocasio has neither alleged nor shown any personal, extrajudicial source of bias on the part of Judge Sprizzo, neither § 455(b)(1) nor § 144 required recusal.
+Section 455(a) requires recusal where “an objective, disinterested observer fully informed of the underlying facts [would] entertain significant doubt that justice would be done absent recusal.” United States v. Lovaglia, 954 F.2d 811, 815 (2d Cir.1992). Ocasio alleged that the district court’s bias took the form of adverse rulings, alleged ex parte communications with the defendants, and the court’s allegedly inconsistent application of its own rules regarding pre-motion conferences. But adverse rulings, by themselves, do not constitute grounds for recusal. Liteky v. United States, 510 U.S. 540, 555, 114 S.Ct. 1147, 127 L.Ed.2d 474 (1994). Further, the instances of alleged ex parte contact between the court and the defendants took the entirely appropriate form of letters from counsel to the court, with copies to Ocasio. And the apparent discrepancy in the district court’s application of its own rules is easily explained: the defendants sought and received permission to proceed without a pre-motion conference, while the plaintiff did not. There is thus no objective basis for doubting Judge Sprizzo’s impartiality. Recusal was therefore not required under § 455(a).
+The district court also properly dismissed Ocasio’s second complaint as untimely. Ocasio was required to file his complaint within ninety days after receiving the EEOC’s right-to-sue letter. See 42 U.S.C. § 2000e-5(f)(l). That letter was sent on February 11, 1998. Applying the usual presumption that the letter was received three days after mailing, see Sherlock v. Montefiore Med. Ctr., 84 F.3d 522, 525 (2d Cir.1996), the 90-day filing period was due to expire on May 15, 1998. Ocasio delivered his motion to proceed in for-ma pauperis, along with the first complaint, to the district court on May 13, 1995, thereby tolling the statute of limitations with two days to spare. See Toliver v. Cty. of Sullivan, 841 F.2d 41, 42 (2d Cir.1988). The court granted Ocasio’s motion, and the complaint was deemed officially filed on July 17, 1998. From that date, Ocasio had 120 days to perfect service of process with respect to the first complaint. See Fed.R.Civ.P. 4(m). He did not do so within that period of time. On March 31, 1999, the district court therefore correctly dismissed that complaint.
+Because the dismissal of the first complaint was without prejudice, Ocasio was theoretically free to file a second complaint, but he could only do so if it was timely. And by the time of the March 31, 1999 order, the time for him to file another complaint had already run. The 90-day filing deadline continued to apply to any other complaint he might file asserting a cause of action containing the claims that he had made to the EEOC. As noted, only two days remained in that 90-day period when he delivered his in forma pauperis petition and first complaint, which tolled the limitations period. The limitations period remained suspended during the 120-day period for perfecting sendee of process with respect to the first complaint— i.e., until November 15, 1998. Upon the completion of that tolling period, the statute began to run again, see Frasca v. United States, 921 F.2d 450, 453 (2d Cir. 1990), and ran for the two days of the limitations period remaining, i.e., until November 17, 1998. Ocasio did not file his second complaint until more than seven months after that, on July 26, 1999. His second complaint was therefore time-barred. He has offered no plausible reason why the statute of limitations should have been tolled for that seven-month period. The district court thus properly dismissed the second complaint on March 6, 2000.
+For the foregoing reasons, the judgment of the District Court is hereby AFFIRMED.
+. The docket sheet indicates that the complaint was filed on July 15, 1998, but the district court found that it was filed on July 17, 1998, and neither party disputes this finding on appeal.
