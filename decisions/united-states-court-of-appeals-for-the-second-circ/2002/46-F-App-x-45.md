@@ -1,0 +1,42 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "01-9314"
+decided: "2002-09-19"
+citations: ["46 F. App'x 45"]
+parties: ["Barbara MORSE, a/k/a Reba Kalish, Plaintiff-Appellant, v. The CITY OF NEW YORK, The New York City Police Department, Rudolph Giuliani, Mayor, Howard SAFIR, Commissioner, O’Brien, Captain, Walter Peyton, Lt., Tax ID-855992, Ronald Giehl, P.O. (5th Pct.), James Boyle, P.O. (5th Pct.), Russo, P.O. (5th Pct.), Marian Torres, Julie Alvarado, 04963, Joann Caban, 14507, Brian Chin, 00053, Robert Scott, 20951, Michael O’Neil, 05930, Thomas Von Essen, Commissioner, the New York City Fire Department Emergency Services Unit, Mike Early, Eric (John Doe), Commissioner of Health and Hospitals Corporation, Commissioner of Corrections, Corrections Department, Corrections Medical Office, New York City Department of Corrections, Bernard Kerik, Commissioner, Dru (Drew) Carey, 18b Attorney, Civilian Complaint Review Board, Frank Wohl, CCRB Chairman, Gene Lopez, CCRB Executive Director, Health and Hospitals Corporation, Luis Marcos, Commissioner, Jim Keegan, PBA Attorney, Defendants, LEGAL AID SOCIETY, Sergio De La Pava, Legal Aid Attorney, New York County Office of the District Attorney, Robert Morgenthan, District Attorney, Ada Joan Illuzzi-Orbon, Ada Jason Davidson, Ada Mark Dwyer, Ada Beth Beller, Beth Israel Medical Center, Dr. Alexander Prikhojan, Dr. David Shenker, Dr. David Holson, Fran Glennon, Donna Recant, Judge, Betsy Barros, Judge, William Sackett, Judge, Margaret J. Finerty, Judge, Judith Rackower, Judge, Eugene Oliver, Judge, Patrolmen’s Benevolent Association, and Ira J. Raab, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/46/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 965474
+cites_cases: ["2001 WL 968996", "853 F.2d 57", "947 F.2d 627"]
+---
+
+# Morse v. City of New York
+
+## Head matter
+
+Barbara MORSE, a/k/a Reba Kalish, Plaintiff-Appellant, v. The CITY OF NEW YORK, The New York City Police Department, Rudolph Giuliani, Mayor, Howard SAFIR, Commissioner, O’Brien, Captain, Walter Peyton, Lt., Tax ID-855992, Ronald Giehl, P.O. (5th Pct.), James Boyle, P.O. (5th Pct.), Russo, P.O. (5th Pct.), Marian Torres, Julie Alvarado, 04963, Joann Caban, 14507, Brian Chin, 00053, Robert Scott, 20951, Michael O’Neil, 05930, Thomas Von Essen, Commissioner, the New York City Fire Department Emergency Services Unit, Mike Early, Eric (John Doe), Commissioner of Health and Hospitals Corporation, Commissioner of Corrections, Corrections Department, Corrections Medical Office, New York City Department of Corrections, Bernard Kerik, Commissioner, Dru (Drew) Carey, 18b Attorney, Civilian Complaint Review Board, Frank Wohl, CCRB Chairman, Gene Lopez, CCRB Executive Director, Health and Hospitals Corporation, Luis Marcos, Commissioner, Jim Keegan, PBA Attorney, Defendants, LEGAL AID SOCIETY, Sergio De La Pava, Legal Aid Attorney, New York County Office of the District Attorney, Robert Morgenthan, District Attorney, Ada Joan Illuzzi-Orbon, Ada Jason Davidson, Ada Mark Dwyer, Ada Beth Beller, Beth Israel Medical Center, Dr. Alexander Prikhojan, Dr. David Shenker, Dr. David Holson, Fran Glennon, Donna Recant, Judge, Betsy Barros, Judge, William Sackett, Judge, Margaret J. Finerty, Judge, Judith Rackower, Judge, Eugene Oliver, Judge, Patrolmen’s Benevolent Association, and Ira J. Raab, Defendants-Appellees.
+Docket No. 01-9314.
+United States Court of Appeals, Second Circuit.
+Sept. 19, 2002.
+Barbara Morse, pro se, New York, NY, for Appellant.
+William D. Buckley, New York, NY, for the Legal Aid Society Defendant-Appellees.
+Abe M. Rychik, New York, N.Y. (Paul F. McAloon and Jeffrey W. Padilla on the brief), for the Beth Israel Medical Center Defendant-Appellees.
+Sherri Lynn Wolson, Washington, D.C. (Gary A. Orseck on the brief), for the Patrolmen’s Benevolent Association Defendant-Appellees.
+Carol Fischer, Assistant Solicitor General, New York, N.Y. (Eliot Spitzer, Attorney General, and Mark Gimpel, Deputy Solicitor General, on the brief), for Defendanh-Appellee State Court Judges (on submission).
+Michael S. Morgan, Assistant District Attorney, New York, N.Y. (Robert M. Morgenthau, New York County District Attorney, on the brief), for the New York County District Attorney Defendant-Appellees (on submission).
+Ira J. Raab, pro se, Mineóla, N.Y. (on submission).
+Present ELLSWORTH Van GRAAFEILAND, DENNIS JACOBS and ROSEMARY S. POOLER, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED that the appeal is dismissed for lack of appellate jurisdiction.
+Plaintiff-appellant Barbara Morse appeals from a judgment entered in the United States District Court for the Southern District of New York (Griesa, J.) on Oetober 16, 2001, dismissing her claims in their entirety as against most, but not all, of the defendants. The action is still pending in the district court against various New York City entities and employees who only later submitted a motion to dismiss. See Morse v. City of New York, No. 00 Civ. 2528(TPG), 2001 WL 968996, at *1, *10 (S.D.N.Y. Aug.24, 2001).
+Federal Rule of Civil Procedure 54(b) provides for entry of final judgment by an order that disposes of “one or more but fewer than all of the claims or parties,” and thus for certification of appeal therefrom, if the district court expressly determines that “there is no just reason for delay” and directs entry of judgment. Fed.R.Civ.P. 54(b). The judgment of dismissal, entered October 16, 2001, recited the following:
+[P]ursuant to Federal Rule of Civil Procedure 54(b) the court has determined that there is no just reason for delay and thus expressly orders and adjudges that plaintiff take nothing of the defendants listed and that the case is dismissed with prejudice in its entirety and that the clerk is expressly directed to enter judgment in favor of said defendants.
+(Capitalization omitted.)
+The decision to certify an order under Rule 54(b) lies within the district court’s discretion, but this Court has held repeatedly that, “in making the express determination required under Rule 54(b), district courts should not merely repeat the formulaic language of the rule, but rather should offer a brief, reasoned explanation” for their conclusion. Harriscom Svenska AB v. Harris Corp., 947 F.2d 627, 629 (2d Cir.1991) (collecting cases) (internal quotation marks omitted). The absence of such an explanation justifies dismissal of the appeal for lack of jurisdiction. See id. at 630; National Bank of Washington v. Dolgov, 853 F.2d 57, 58 (2d Cir.1988). In the present case, the district court offered no explanation to support the bare conclusion that there was no just reason to delay appellate review.
+This Court has only “disregarded the absence of an adequate explanation where the reasons for the entry of judgment were obvious ... and a remand to the district court would result only in unnecessary delay in the appeal process.” Harris-com, 947 F.2d at 630 (internal quotation marks and punctuation omitted). This is not such a case. The record suggests no exigency sufficient to require piecemeal appellate review. Moreover, such review is inappropriate because the claims that are still pending against the New York City defendants may involve the same or closely related issues as the dismissed claims. See National Bank, 853 F.2d at 58 (holding Rule 54(b) judgment was inappropriate in part because pending forgery claim was closely related to dismissed breach of warranty claims).
+The appeal is therefore dismissed for lack of appellate jurisdiction.
+. The October 16, 2001, judgment dismissed Morse's claims against the following defendants: the Legal Aid Society; Sergio De La Pava; State Court Judges Donna Recant, Betsy Barros, William Sackett, Margaret Finerty, Judith Rackower, Eugene Oliver, and Ira Raab; the New York County District Attorney’s Office; New York County District Attorney Robert M. Morgenthau; Assistant District Attorneys Joan Illuzzi-Orbon, Jason Davidson, Mark Dwyer, and Beth Beller; Beth Israel Medical Center; Dr. Alexander Prikhojan; Dr. David Shenker; Dr. David Holson; and Fran Glennon. See Morse v. City of New York, No. 00 Civ. 2528(TPG), 2001 WL 968996, at *1, *10 (S.D.N.Y. Aug.24, 2001). A separate judgment, entered on August 5, 2002, dismissed Morse’s claims against the Patrolmen's Benevolent Association (the '’PBA”).
+. The August 5, 2002, judgment pertaining to the PBA included a virtually identical recitation.
