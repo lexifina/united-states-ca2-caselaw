@@ -1,0 +1,36 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "s. 01-7239(L), 01-9089(CON)"
+decided: "2002-09-20"
+citations: ["46 F. App'x 55"]
+parties: ["E.Z. SAVE, INC., Plaintiff-Counter-Defendant, Waqar AHMAD, Counter-Defendant-Appellant, v. GETTY PETROLEUM CORP., Getty Petroleum Marketing, Inc., Defendant-Counter-Claimant-Appellees."]
+source_url: "https://static.case.law/f-appx/46/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 965547
+cites_cases: ["1999 WL 775754", "244 F.3d 114", "25 Conn. L. Rptr. 436", "250 Conn. 334", "253 Conn. 806", "263 U.S. 413", "460 U.S. 462", "51 F.3d 14", "63 F.3d 1169", "736 A.2d 824", "757 A.2d 494", "896 F.2d 716"]
+---
+
+# E.Z. Save, Inc. v. Getty Petroleum Corp.
+
+## Head matter
+
+E.Z. SAVE, INC., Plaintiff-Counter-Defendant, Waqar AHMAD, Counter-Defendant-Appellant, v. GETTY PETROLEUM CORP., Getty Petroleum Marketing, Inc., Defendant-Counter-Claimant-Appellees.
+Docket Nos. 01-7239(L), 01-9089(CON).
+United States Court of Appeals, Second Circuit.
+Sept. 20, 2002.
+Waqar Ahmad, pro se, Brooklyn, NY, for Appellants.
+Charles T. Lee, Paul, Hastings, Janofsky & Walker, New York, NY, for Appellees.
+Present JOHN M. WALKER, Jr., Chief Judge, JON O. NEWMAN and FRED I. PARKER, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the judgment of said district court be and it hereby is AFFIRMED.
+Counter-defendant-appellant Waqar Ahmad appeals from a grant of summary judgment and an award of damages in favor of defendant-counter-claimant-appellee Getty Petroleum Corporation. The case arises from a contract dispute over a lease agreement for a retail gasoline service station.
+On July 25, 2002, this Court consolidated the appeals, and dismissed the appeal by plaintiff-counter-defendant E.Z. Save, Inc., for failure to file a brief.
+Mr. Ahmad argues essentially that the district court erred by: 1) granting Getty damages, and not subtracting from those damages Ahmad’s lost profits and commissions during Getty’s lock-up of the gasoline pumps; 2) finding that Getty’s termination of the agreements was justified because E.Z. Save’s failure to make daily payments and maintain daily inventory on the gasoline delivered to E.Z. Save was a substantial breach of material terms of the agreements; and 3) finding Mr. Ahmad personally liable for damages against E.Z. Save. In supporting his first two arguments, Ahmad claims that E.Z. Save and Getty had a franchisor-franchisee relationship, and he relies on the protections of the Connecticut Franchise Act (CFA). In support of the third argument, Mr. Ahmad claims that an agreement dated March 26, 1993, which assigned personal liability to Mr. Ahmad, was a forgery.
+We review a “district court’s grant of summary judgment de novo, construing the evidence in the light most favorable to the non-moving party.” VKK Corp. v. Nat’l Football League, 244 F.3d 114, 118 (2d Cir.2001). Federal Rule of Civil Procedure 56(c) provides that summary judgment must be granted if there is no genuine issue as to any material fact and if the moving party is entitled to judgment as a matter of law. The moving party has the burden of demonstrating the absence of any disputed material facts, and the court must resolve all ambiguities and draw all reasonable inferences in favor of the party against whom summary judgment is sought. See Thompson v. Gjivoje, 896 F.2d 716, 720 (2d Cir.1990). Reliance upon conclusory statements or unsupported allegations is not sufficient to defeat summary judgment. See Goenaga v. March of Dimes Birth Defects Found., 51 F.3d 14, 18 (2d Cir.1995).
+In his first argument, Mr. Ahmad relies upon a Connecticut Superior Court’s determination that Getty and E.Z. Save had a franchisor-franchisee relationship under the CFA. Getty Petroleum Mktg., Inc. v. Ahmad, 25 Conn. L. Rptr. 436; 1999 WL 775754, at *1 (Sup.Ct. July 16, 1999). Mr. Ahmad claims that, as a franchisee, he was entitled to sixty days’ notice of termination in writing. The district court had adopted the Connecticut Superior Court’s ruling under the doctrine of res judicata, but in the interim, the Connecticut Supreme Court reversed the Superior Court, ruling that Mr. Ahmad was not a franchisee under the CFA. Getty Petroleum Mktg., Inc. v. Ahmad, 253 Conn. 806, 757 A.2d 494 (Conn.2000). Like the district court, we are bound by the Connecticut courts’ determination of this issue under the principle of res judicata and the Rooker-Feldman doctrine. See D.C. Court of Appeals v. Feldman, 460 U.S. 462, 482-87 & n. 16, 103 S.Ct. 1303, 75 L.Ed.2d 206 (1983) (holding that district courts do not have jurisdiction to review state court decisions or claims “inextricably intertwined” with the merits of the state court determination); Rooker v. Fidelity Trust Co., 263 U.S. 413, 416, 44 S.Ct. 149, 68 L.Ed. 362 (1923). Because the CFA does not apply to Mr. Ahmad or E.Z. Save, Getty was not required to give Mr. Ahmad sixty days’ notice, and thus Getty does not owe Mr. Ahmad damages for locking up the pumps.
+For the second issue, contesting the termination of the agreement, Ahmad argues that the CFA permits termination of a franchise only “for good cause.” Conn. Gen.Stat. § 42-133Í. Mr. Ahmad’s reliance on the CFA is misplaced, given the Connecticut Supreme Court’s ruling that Mr. Ahmad is not a franchisee. Even if Mr. Ahmad were a franchisee, moreover, we agree with the district court that E.Z. Save’s non-payments breached the agreements and that Getty had good cause for termination. See Petereit v. S.B. Thomas, Inc., 63 F.3d 1169, 1184 (2d Cir.1995) (holding that “good cause is not limited to proving contractual breaches of the franchise agreement, but may be based on a franchisor’s legitimate business reasons”); see also Hartford Elec. Supply Co. v. Allen Bradley Co., Inc., 250 Conn. 334, 736 A.2d 824, 840-41 (Conn.1999) (adopting the Second Circuit’s interpretation in Petereit).
+Finally, Mr. Ahmad argues that the agreement that allegedly assigned him personal liability were fabricated. First, Mr. Ahmad is inconsistent about the agreement’s validity. On the one hand, he relies upon the existence of this agreement to assert his legal rights as a franchisor, and on the other hand, argues that it is a forgery. The court below correctly dismissed these forgery charges as inconsistent with Ahmad’s reliance on these documents: “I do note, however, that if the plaintiff now maintains that it is not the lessee or franchisee of the agreement in question, then the plaintiff has no likelihood of success because it will not be able to demonstrate standing to sue.” If the document offered by Getty is indeed a fraud, then we wonder whether there is an authentic document that Mr. Ahmad can rely upon for his legal claims. Furthermore, Mr. Ahmad presents insufficient evidence to support this charge, even under the permissive standard of review for summary judgments. He does not adequately refute Getty’s explanation that the inconsistencies were due to a clerical error in backdating the document from 1997 to the beginning of the agreement in 1993.
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the judgment of said district court be and it hereby is AFFIRMED.
