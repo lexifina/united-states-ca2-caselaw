@@ -1,0 +1,38 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "02-9075(L)"
+decided: "2003-07-01"
+citations: ["69 F. App'x 17"]
+judges: ["PRESENT: MCLAUGHLIN, LEVAL and RAGGI Circuit Judges."]
+parties: ["Harry KALOSHI, Zachary Lareche, Eddie Brumfield, J. Jose Garcia, Edward A. Roberts, Frideline Charles, Plaintiffs-Appellees, Rock Hackshaw, Eeline King, Francois Jean, Cheery Lowers, Charles Simpson, Daniel Brooks, Andrew Louis, Jean Claude Constante Lenet Eugene, Annie Bratts, Sandra Coward, Joya Wright, Glenn Askeredolu, Mohammad Qaisir, Tamara Michel, May Cilda, Intervenor-Plaintiff-Appellees, v. Eliot SPITZER, Intervenor-Appellant, Kings County Democratic County Committee, Joan Millman, New York City Board of Elections, Terrence C. O’Connor, Weyman A. Carey, Michael J. Cilmi, Nero Graham, Jr., Mark B. Herman, Frederic M. Umane, Vincent J. Velella, Stephen H. Weiner, Radila Jailaran, Shirley Seligan, George McVay, Defendants-Consolidated-Appellants, Roland Demas, Jerome Jacobs, Susan Lasher, Adele H. Cohen, Rhoda S. Jacobs, Kings County Democratic County Committee, Clarence Norman, Douglas A. Kellner, Defendants."]
+source_url: "https://static.case.law/f-appx/69/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 318625
+cites_cases: ["504 U.S. 555", "N.Y. Elec. Law §§ 6-118"]
+---
+
+# Kaloshi v. Spitzer
+
+## Head matter
+
+Harry KALOSHI, Zachary Lareche, Eddie Brumfield, J. Jose Garcia, Edward A. Roberts, Frideline Charles, Plaintiffs-Appellees, Rock Hackshaw, Eeline King, Francois Jean, Cheery Lowers, Charles Simpson, Daniel Brooks, Andrew Louis, Jean Claude Constante Lenet Eugene, Annie Bratts, Sandra Coward, Joya Wright, Glenn Askeredolu, Mohammad Qaisir, Tamara Michel, May Cilda, Intervenor-Plaintiff-Appellees, v. Eliot SPITZER, Intervenor-Appellant, Kings County Democratic County Committee, Joan Millman, New York City Board of Elections, Terrence C. O’Connor, Weyman A. Carey, Michael J. Cilmi, Nero Graham, Jr., Mark B. Herman, Frederic M. Umane, Vincent J. Velella, Stephen H. Weiner, Radila Jailaran, Shirley Seligan, George McVay, Defendants-Consolidated-Appellants, Roland Demas, Jerome Jacobs, Susan Lasher, Adele H. Cohen, Rhoda S. Jacobs, Kings County Democratic County Committee, Clarence Norman, Douglas A. Kellner, Defendants.
+Docket No. 02-9075(L).
+United States Court of Appeals, Second Circuit.
+July 1, 2003.
+Patrick J. Walsh, Assistant Solicitor General (Michael S. Belohlavek, Deputy Solicitor General, on the brief), New York, NY, for Appellants.
+Bernard M. Alter, Alter & Barbaro, Brooklyn, NY, for Appellees.
+PRESENT: MCLAUGHLIN, LEVAL and RAGGI Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+The Appellees are eight unsuccessful candidates for New York state offices (“the candidates”), who brought the action, and fourteen registered Democrats (“the voters”), who intervened as plaintiffs. The candidates sought placement on the ballot of the September 10, 2002 Democratic Party primary for seats in the State senate and assembly, and positions on the Democratic State Committee. The voters claimed an interest in voting for those candidates.
+In order to secure a place on the ballot, each candidate was obligated to collect a certain number of valid signatures on a designating petition. See N.Y. Elec. Law §§ 6-118, 6-132, 6-136. For a signature to be valid, § 6-132(2) required that it be witnessed by a voter registered in the party in which the candidate sought ballot access. All the candidates either committed fatal procedural errors in preparing their petitions or, after challenges to their petitions before the New York City Board of Elections (“the Board”), were found to have failed to collect the minimum number of valid signatures required by state law for ballot placement. They were therefore excluded from the ballot. Rulings of the New York State Supreme Court sustained the Board’s invalidation of their petitions. In this suit the candidates and the voters claim, inter alia, that their constitutional rights under the First and Fourteenth amendments were violated by the requirement that petition signatures be witnessed by a registered party member. We do not reach the merits of their claims, because they lack standing.
+The district court found that the candidates’ federal claims were barred by res judicata, as each of the candidates had been party to state court proceedings concerning the validity of their petitions, in which they had failed to raise these federal claims. The court ruled, however, that the voters had standing to continue the action. In the district court’s view, the voters satisfied the standing requirement of Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992), that a litigant have suffered injury-in-fact, because their “choice of candidates in the democratic party primary will be limited if the potential candidates are removed from the ballot.” While rejecting various other challenges to the actions and procedures of the Board, the trial court found the challenged requirement of § 6-132(2) to be unconstitutional and ordered one of the candidates, Harry Kaloshi, placed on the 2002 Democratic primary ballot. The court did not order the same relief for the other candidates because, for reasons independent of the challenged requirement, they failed to obtain a sufficient number of signatures.
+In our view, however, the voters advocating Kaloshi’s candidacy did not suffer injury-in-fact and did not have standing. The court’s conclusion that Kaloshi’s voters had standing rested on its belief that Kaloshi (unlike the other plaintiff candidates) would have been eligible for the ballot, but for the challenged statutory provision. This finding was erroneous. Kaloshi did not have sufficient signatures to qualify.
+Kaloshi needed 1,000 valid signatures to qualify as a candidate for the office of senator. His petition contained 1,609 signatures. The petition was challenged before the Board of Elections by two individuals, Roland Demas and Radila Jailaran. Upon sustaining many of the objections in two separate proceedings, the Board found that Kaloshi lacked the requisite 1,000 valid signatures and invalidated his petition.
+In response to Demas’s objections, the Board invalidated 666 signatures by reason of the statutory requirement which the district court later found unconstitutional. The district court restored those 666 signatures, adding them to the 350 signatures that the Board had found valid after consideration of Demas’s challenge. The court concluded that Kaloshi had 1016 valid signatures, enough to qualify for the ballot.
+The problem with the court’s reasoning was that it ignored Jailaran’s objections. In its separate consideration of Jailaran’s objections, the Board invalidated 929 signatures for reasons having nothing to do with the challenged witness requirement. Subtraction of those 929 invalid signatures from Kaloshi’s total leaves him without the necessary 1,000 signatures. Kaloshi was therefore not eligible for the ballot, regardless of the validity of Demas’s challenges.
+Because Kaloshi failed to qualify for reasons unrelated to the challenged witnessing requirement, the voters cannot satisfy the standing requirements of Lujan. The voters suffered no injury traceable to the challenged statutory provision. Even with the signatures that the district court restored, Kaloshi did not qualify for the ballot. Because the appellees lack standing, the federal courts have no power to rule on their claims.
+The order of the district court is VACATED and the action DISMISSED.
+. He received 3.2% of the vote, finishing fifth in a field of five.
