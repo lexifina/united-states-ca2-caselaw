@@ -1,0 +1,40 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "00-4006"
+decided: "2001-01-04"
+citations: ["1 F. App'x 8"]
+parties: ["NATIONAL LABOR RELATIONS BOARD, Petitioner, v. EUGENE IOVINE, INC., Respondent."]
+source_url: "https://static.case.law/f-appx/1/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 136784
+cites_cases: ["13 F.3d 619", "156 N.L.R.B. 555", "167 N.L.R.B. 310", "168 N.L.R.B. 677", "274 N.L.R.B. 775", "29 U.S.C. §§ 158", "291 N.L.R.B. 489", "340 U.S. 474", "369 U.S. 404", "80 F.3d 755", "95 L.Ed. 456"]
+---
+
+# National Labor Relations Board v. Eugene Iovine, Inc.
+
+## Head matter
+
+NATIONAL LABOR RELATIONS BOARD, Petitioner, v. EUGENE IOVINE, INC., Respondent.
+No. 00-4006.
+United States Court of Appeals, Second Circuit.
+Jan. 4, 2001.
+Anna L. Francis, Att’y, Washington, DC, for petitioner.
+Roger S. Kaplan, Jackson, Lewis, Schnitzler & Krupman, Woodbury, NY, for respondent.
+Present OAKES and KEARSE, Circuit Judges, KORMAN, Chief District Judge .
+Honorable Edward R. Korman, Chief Judge of the United States District Court for the Eastern District of New York, sitting by designation.
+
+## Majority
+
+SUMMARY ORDER
+This cause came on to be heard on the record from the National Labor Relations Board and was argued by counsel.
+ON CONSIDERATION WHEREOF, it is now hereby ordered, adjudged, and decreed that the petition for enforcement be and it hereby is granted.
+Petitioner National Labor Relations Board (“Board” or “NLRB”) petitions for enforcement of its order of April 30, 1999, ruling that respondent Eugene Iovine, Inc. (“Iovine”), violated §§ 8(a)(1) and (5) of the National Labor Relations Act, 29 U.S.C. §§ 158(a)(1) and 158(a)(5), by unilaterally reducing its employees’ hours of work without first notifying the employees’ union representative and affording that representative an opportunity to bargain over the reduction. Iovine opposes enforcement on the ground that the Board irrationally rejected its evidence that the challenged reduction of hours was in accordance with its established practice. For the reasons that follow, we see no basis for refusing to enforce the Board’s order.
+This Court’s review of NLRB orders is “quite limited.” See NLRB v. Katz Delicatessen of Houston Street, Inc., 80 F.3d 755, 763 (2d Cir.1996). An order is to be enforced if its legal conclusions are reasonably based and its factual findings are supported by substantial evidence on the record as a whole. See Universal Camera Corp. v. NLRB, 340 U.S. 474, 488, 71 S.Ct. 456, 95 L.Ed. 456 (1951); NLRB v. Windsor Castle Health Care Facilities, Inc., 13 F.3d 619, 623 (2d Cir.1994). In reviewing the Board’s factual findings, a court “may not displace the Board’s choice between two fairly conflicting views, even though the court would justifiably have made a different choice had the matter been before it de novo.” NLRB v. Walton Manufacturing Co., 369 U.S. 404, 405, 82 S.Ct. 853, 7 L.Ed.2d 829 (1962) (internal quotation marks omitted).
+The Board has held that a company’s established past practices may constitute a defense to a claim under §§ 8(a)(1) and (5) because the established practice has in effect become a condition of employment that the company is entitled to continue until changed through bargaining with representatives of its employees. See Litton Precision Products, Inc., Clifton Precision Products Division, 156 N.L.R.B. 555 n. 15 (1966). Generally, by “established past practices,” the NLRB means “that the change complained of must be of an activity which has been ‘satisfactorily established’ by practice or custom; an ‘established practice’; [or] an ‘established condition of employment.’ ” Exxon Shipping Co., 291 N.L.R.B. 489, 493 (1988) (citing Granite City Steel Co., 167 N.L.R.B. 310, 315 (1967); Chefs Pantry, 274 N.L.R.B. 775 (1985); Brotherhood of Locomotive Firemen, 168 N.L.R.B. 677, 680 (1967)).
+In the present case, it was undisputed that in 1996, Iovine unilaterally reduced the hours of at least some of its employees. Iovine’s evidence that that reduction was in accordance with its past practice consisted solely of the affidavit of the former president of the union that previously had represented the relevant Iovine employees. That affidavit read, in pertinent part, as follows:
+2. It was a common practice among Iovine and other electrical contractors whose employees were represented by Local 363 to reduce hours of their employees rather than to lay them off completely for a period of time. Many of the employees employed by the contractors, including Iovine, worked for their respective employers for 15 to 20 years. The reduced hours may be the result of a slow down in the work on a particular job which frequently happened during the holiday seasons, or the contractor may be in between jobs. Many of these contractors had public works jobs which may be shut down temporarily because of approvals needed on these types of jobs. When jobs were shut down, the employees may perform different work on the job sites, or the employees go to other job sites, working reduced hours. Other reasons for reduction of hours could be shipments of needed materials were not yet delivered, or having to wait for other trades to finish their work. Also there may be reductions in hours caused if employees were transferred temporarily into job sites from other job sites where there were slowdowns or shutdowns. Normally the Union was not notified by an employer of its reduction in hours of the work; the Union was only notified if an individual employee had a complaint concerning the reduction.
+3. These reduetion[s] in hours as I have described rather than a layoff was a common practice in the industry for up to a month or 2. The employees would rather work reduced hours and get benefits [instead] of getting a layoff, and the contractors would have the crews available to work. As a representative of Local 363, I was aware of and accepted this as a common practice in the industry.
+(Affidavit of Pat Bellantoni (undated) HH 2-3.)
+Although the parties stipulated to the admission of this affidavit in evidence, we see no indication that the Board agreed to accept it as sufficient proof that the past-practice defense was applicable in the present case. Nor can we say that viewing the affidavit as insufficient was arbitrary or irrational. While the affidavit explained the practical basis for acceptance of such schedule reductions in the industry, its suggestion that this was a common practice of Iovine itself was entirely conclusory. The affidavit presented no concrete facts as to Iovine’s practice prior to 1996, either as to the number of reductions or as to their frequency. Further, though the affidavit proffered generalized practical reasons why such reductions might have been implemented and tolerated in the past (“may be the result of a slow down in the work on a particular job”; or contractor “may be in between jobs”; or jobs “may be shut down temporarily because of approvals needed”; or it “could be shipments of needed materials were not yet delivered”), Bellantoni did not purport to provide the reason or reasons for Iovine’s reduction of hours in 1996.
+Nor did Iovine present any evidence from its own records or officers, either as to any specific occasion on which it had previously reduced hours or as to the reason for its reduction of hours in 1996. Given the generality and the conclusory nature of the only evidence presented by Iovine, we see no basis for overturning the Board’s conclusion that the proof was insufficient to establish the defense that the challenged 1996 reduction was merely an instance of Iovine’s prior established practice.
+We have considered all of Iovine’s contentions in opposition to the petition and conclude for the above reasons that they provide no basis for denying enforcement of the Board’s order. The petition for enforcement is granted, and the order of the National Labor Relations Board is enforced.
