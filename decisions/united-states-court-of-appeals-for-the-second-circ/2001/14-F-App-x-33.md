@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "00-1667"
+decided: "2001-06-18"
+citations: ["14 F. App'x 33"]
+parties: ["UNITED STATES of America, Appellee, v. Douglas S. ANDERSON, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/14/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 212403
+cites_cases: ["116 S.Ct. 900", "121 S.Ct. 33", "133 L.Ed.2d 834", "148 L.Ed.2d 13", "164 F.3d 120", "18 U.S.C. § 876", "180 F.3d 380", "28 U.S.C. § 1291", "516 U.S. 1105", "534 F.2d 1020", "60 F.3d 41", "601 F.2d 69", "972 F.2d 16"]
+---
+
+# United States v. Anderson
+
+## Head matter
+
+UNITED STATES of America, Appellee, v. Douglas S. ANDERSON, Defendant-Appellant.
+No. 00-1667.
+United States Court of Appeals, Second Circuit.
+June 18, 2001.
+Gerald T. Walsh, Zdarsky, Sawicki & Agostinelli, Buffalo, NY, for appellant.
+Elizabeth S. Riker, Assistant U.S. Attorney for the Northern District of New York, Syracuse, NY, for appellee.
+Present LEVAL, PARKER, Circuit Judges, and KEENAN, District Judge.
+The Honorable John F. Keenan, District Judge of the United States District Court for the Southern District of New York, sitting by designation.
+
+## Majority
+
+SUMMARY ORDER
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the decision of said District Court be and it hereby is AFFIRMED.
+Defendant-appellant, Douglas Anderson (“Anderson”) appeals from a September 28, 2000 judgment of conviction of the United States District Court for the Northern District of New York (Norman A. Mordue, Judge ) following a six-day jury trial. The jury found Anderson guilty of the only count in the indictment, which charged Anderson with mailing a threatening letter to Joseph Heath, an attorney for the Onondaga Nation, with intent to extort, in violation of 18 U.S.C. § 876. Anderson was sentenced to, inter alia, three years probation including six months of home detention. This Court has jurisdiction to hear this appeal pursuant to 28 U.S.C. § 1291.
+On appeal, Anderson argues that (1) he was prosecuted under 18 U.S.C. § 876 for engaging in political speech that is protected by the First Amendment; (2) the government failed to prove his intent to extort a thing of value, which is a necessary element of a violation of 18 U.S.C. §. 876; (3) the district court abused its discretion by excluding evidence that may have been relevant to intent, state of mind, and the alleged victim’s bias and hostility toward the defendant; (4) the district court erred in refusing to charge the jury that it must find Anderson’s intent to extort to be “wrongful” and in instructing the jury that motive is irrelevant; (5) the district court erred in denying the defendant’s motion for a new trial based on the alleged perjury of Heath and in refusing to read back Heath’s testimony on prior correspondence between Anderson and Heath; and (6) the district court committed reversible error by delivering an unduly coercive Allen charge and by denying defendant’s motion for a mistrial. We find all of these arguments to be without merit.
+We reject Anderson’s first argument regarding the nature of his speech because the letter that he sent to Joseph Heath unequivocally, unconditionally and specifically stated that if Heath goes upon Iroquois Confederacy land, much of which he works on and around on a daily basis, his car would be confiscated and burned. As the district court indicated, this was a true threat. See United States v. Francis, 164 F.3d 120, 123 (2d Cir.1999) (explaining that “[o]nce a statement meets [the Kelner ] test, it is no longer protected speech because it is so intertwined with violent action that it has essentially become conduct rather than speech”); United States v. Kelner, 534 F.2d 1020, 1027 (2d Cir. 1976) (explaining that “[s]o long as the threat on its face and in the circumstances in which it is made is so unequivocal, unconditional, immediate and specific as to the person threatened, as to convey a gravity of purpose and imminent prospect of execution, [18 U.S.C. § 876] may properly be applied”).
+As for Anderson’s second argument, we have held previously that the ability to peacefully carry on one’s business is a “thing of value” for purposes of statutes dealing with extortion. See United States v. Arena, 180 F.3d 380, 392 (2d Cir.1999), cert. denied, —— U.S. —— , 121 S.Ct. 33, 148 L.Ed.2d 13 (2000); cf. United States v. Girard, 601 F.2d 69, 71 (2d Cir.1979). Therefore, we reject Anderson’s argument that the government failed to prove his intent to extort a thing of value.
+Appellant’s third argument concerning the exclusion of evidence is rejected because the district court did not abuse its discretion when it applied Federal Rules of Evidence 403 and 404(b). In applying these rules correctly, the district court excluded from evidence a videotape and an eyewitness account authored by Joseph Heath that had minimal probative value, potentially high prejudicial value, and the effect of attacking the credibility of Mr. Heath through extrinsic evidence.
+As for Anderson’s requested jury charge, the district court did not misrepresent the law in its charge, and in fact, did explain that “to extort” means to “wrongfully induce someone else to give up something of value by threatening injury to property of another if the thing of value sought is not surrendered.” As a matter of law, Anderson had no legal right to threaten violence to Heath’s property, and therefore it was unnecessary for the district court to charge the jury that the government must prove beyond a reasonable doubt, first, that the defendant had no lawful claim or right to the thing of value he allegedly sought or attempted to obtain, and second, that the defendant knew that he had no lawful claim or right to the thing of value he allegedly sought or attempted to obtain. In addition, the district court’s charge as to Anderson’s motive did not misconstrue the law. See 1 L. Sand, et al., Modem Federal Jury Instructions, Instruction 6-18 (2000); 5 K. O’Malley, et al., General Instructions for Federal Criminal Cases, § 17.06 (2000).
+Further, the district court did not abuse its discretion in denying Anderson’s motion for a new trial because, as the district court correctly indicated, (1) Anderson did not establish that Heath in fact committed perjury, see United States v. White, 972 F.2d 16, 20 (2d Cir.1992) (explaining that “a threshold inquiry is whether the evidence demonstrates that the witness in fact committed perjury”), (2) the allegedly false testimony was not before the jury but only the court, and (3) the allegedly false testimony was not material to the jury’s verdict because it had nothing to do with the mailing of an extortionate threat.
+With respect to the read back, the district court’s refusal to allow a read back of Heath’s testimony about the newspaper article in which he called Anderson a “windbag,” assuming it was.error, must be considered harmless because of the district court’s willingness to read back other testimony in which Heath directly testified that Anderson was a “windbag.” As for read backs concerning prior correspondence between Heath and Anderson, the district court did not abuse its discretion because such testimony did not address the jury’s request as to Heath’s reaction to the threatening letter that formed the basis for the charges against Anderson.
+In the context of an Allen charge, this Court is required to consider whether a given charge “tends to coerce undecided jurors into reaching a verdict.” United States v. Melendez, 60 F.3d 41, 51 (2d Cir.1995), vacated on other grounds, 516 U.S. 1105, 116 S.Ct. 900, 133 L.Ed.2d 834 (1996). Based on a reading of the charge as a whole, the district court’s Allen charge was not unduly coercive and is upheld.
+For the reasons set forth above, the judgment of the district court is AFFIRMED.
