@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "02-132"
+decided: "2003-05-15"
+citations: ["63 F. App'x 39"]
+judges: ["Present: VAN GRAAFEILAND, MINER, and POOLER, Circuit Judges."]
+parties: ["Calvin LEE, Plaintiff-Appellant, v. John DONNARUMA, Agent of NYS Division of Parole—Supervisor, Lawrence Johnson, Gerald M. Burke, Commissioner of NYS Division of Parole, Bruce Vandyke, Agent of NYS Division of Parole and other agents in their official and their individual capacities, Superintendent of NYS Division of Parole, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/63/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9124277
+cites_cases: ["160 F.3d 899", "171 F.3d 757", "1998 WL 1021470", "1999 WL 767426", "42 U.S.C. § 1983", "47 F.3d 158", "488 U.S. 235", "512 U.S. 477", "810 F.2d 358", "869 F.2d 662", "964 F.2d 116"]
+---
+
+# Lee v. Donnaruma
+
+## Head matter
+
+Calvin LEE, Plaintiff-Appellant, v. John DONNARUMA, Agent of NYS Division of Parole—Supervisor, Lawrence Johnson, Gerald M. Burke, Commissioner of NYS Division of Parole, Bruce Vandyke, Agent of NYS Division of Parole and other agents in their official and their individual capacities, Superintendent of NYS Division of Parole, Defendants-Appellees.
+Docket No. 02-132.
+United States Court of Appeals, Second Circuit.
+May 15, 2003.
+Calvin Lee, for Plaintiff-Appellant, pro se.
+Kathleen M. Treasure, Assistant Solicitor General of the State of New York (Eliot Spitzer, Attorney General, and Nancy A. Spiegel Assistant Solicitor General, on the brief), Albany, NY, for Defendants-Appellees.
+Present: VAN GRAAFEILAND, MINER, and POOLER, Circuit Judges.
+The Clerk’s Office is directed to remove Warren Foster, movant, from the official caption since his motion to file a brief Amicus Curiae was denied below.
+
+## Majority
+
+SUMMARY ORDER
+ON CONSIDERATION WHEREOF, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the District Court be and it hereby is AFFIRMED.
+Calvin Lee, proceeding pro se on appeal and below, appeals the March 21, 2002, judgment of the United States District Court for the Northern District of New York (Norman A. Mordue, Judge), denying Plaintiff-Appellant’s motion for summary judgment, and granting Defendants-Ap-pellees’ motion for summary judgment. In 1997, when Lee was on parole after serving a prison term for murder and attempted murder, the Parole Board accepted the recommendation of Administrative Law Judge defendant Bruce VanDyke and revoked Lee’s parole with a time assessment of nine years. Lee did not appeal the decision of the Parole Board, and it has never been overturned. Lee brought this action under 42 U.S.C. § 1983 detailing various alleged deprivations of his constitutional rights that occurred during his parole revocation hearings. He also challenges New York State’s parole system as discriminatory. Lee further claims that certain actions taken by two of his parole officers, Lawrence Johnson and John Don-naruma, violated his constitutional rights.
+Most of Lee’s claims challenge the procedures which culminated in the revocation of his parole, and thus, necessarily constitute a challenge to the validity of the revocation of the parole itself. Such a challenge is barred by the Supreme Court’s decision in Heck v. Humphrey, 512 U.S. 477, 114 S.Ct. 2364, 129 L.Ed.2d 383 (1994), where the Court held that in order to challenge the validity of a conviction or sentence in a Section 1983 action, the inmate must demonstrate that the sentence or conviction has been reversed or invalidated by another tribunal or called into question by the issuance of a federal habe-as corpus petition. Courts have applied Heck to prevent a state prisoner from bringing a Section 1983 action challenging a parole revocation unless that revocation decision is reversed or the underlying conviction is set aside. See, e.g., Sumter v. Marion, 1999 WL 767426, *5 (S.D.N.Y.1999); Sealey v. Fishkin, 1998 WL 1021470, *4 (E.D.N.Y.1998); see also McGrew v. Texas Bd. of Pardons & Paroles, 47 F.3d 158, 160-61 (5th Cir.1995).
+However, the district court merely concluded “that plaintiffs claims in this action stem from the alleged unlawfulness of the procedures which culminated in revocation of his parole,” and did not discuss its reasons for granting summary judgment with respect to Lee’s general claims of discrimination within the parole system or his claims regarding defendants Johnson’s and Donnaruma’s parole supervision prior to the parole revocation. Of course, we may affirm the district court’s grant of summary judgment on any alternative ground supported by the record. See Johnson v. Nyack Hosp., 964 F.2d 116, 122 (2d Cir.1992).
+Lee’s general claims that the parole revocation statute and regulations violate due process and equal protection were properly dismissed. It appears that such claims were directed against defendant “superintendent of NYS Division of Parole,” whom defendants identify as Brion Travis, Chairman of the New York State Division of Parole. Lee has made no allegations of personal involvement in unlawful conduct with respect to Travis, and summary judgment in favor of Travis was therefore appropriate. See Montero v. Travis, 171 F.3d 757, 761-62 (2d Cir.1999) (per cu-riam). Moreover, Lee’s general claims are insufficient to state a claim since they do not “contain some specific allegations of fact indicating a deprivation of rights.” Barr v. Abrams, 810 F.2d 358, 363 (2d Cir.1987).
+Lee claims that Johnson required Lee to move from his fiancee’s residence in March of 1993. Dismissal of this claim was appropriate. The claim is time-barred since Lee did not file his Section 1983 action until April 7, 1997, outside of the three-year statute of limitations derived from the general personal injury statute of limitations that is applied to Section 1983 actions brought in New York. See Owens v. Okure, 488 U.S. 235, 249-50, 109 S.Ct. 573, 102 L.Ed.2d 594 (1989).
+Lee alleges that Donnaruma “started a campaign to discredit [Lee] and destroy the business operated by [Lee] and his family” by intimidating employees of Lee’s youth organization, interfering with foundation/business grants and donations from the community, telling students and parents that the children were being taught by a convict, and spreading slanderous rumors about the business to other organizations and community leaders. Even reading Lee’s claim liberally, as is proper with pro se litigants, we cannot discern a protected liberty or properly interest which was taken from Lee by Donnaruma’s alleged conduct. Defamation alone is clearly not sufficient to create an action under Section 1983. Neu v. Corcoran, 869 F.2d 662, 666 (2d Cir.1989). Although defamation plus “dismissal from a government job ... [or] termination by [the state] of any other legal right or status” rises to the level of a constitutional violation, here Lee has suggested nothing beyond “a state law tort.” Id. at 669. Even if Lee’s claim does allege deprivation of some protected liberty interest, that interest is certainly not “clearly established,” and Donnaruma would therefore be entitled to qualified immunity. See, e.g., Young v. County of Fulton, 160 F.3d 899, 903 (2d Cir.1998).
+We have thoroughly reviewed all of Lee’s other arguments on appeal, and find them to be without merit. For the reasons stated above, we affirm the judgment of the district court.
