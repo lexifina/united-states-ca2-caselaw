@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "00-0118"
+decided: "2002-05-10"
+citations: ["37 F. App'x 15"]
+parties: ["Michael A. FEASTER, Plaintiff-Appellant, v. UNITED STATES BUREAU OF PRISONS, Federal Correctional Institute, Ray Brook, New York, C. Sullivan, Unit Manager, FCI Ray Brook, D. Ryan, Disciplinary Hearing Officer, FCI Ray Brook, B. Dimpsey, Case Manager Coordinator, FCI Ray Brook, Lydia Zaunbrecher, Dr., Clinical Director, FCI Ray Brook, Dave Chapman, Associate Warden of Operations, FCI Ray Brook, Don Stine, Associate Warden of Programs, FCI Ray Brook, Ron Wiley, Warden, FCI Ray Brook, Dena Davion, Regional Hearing Administrator, Northeast Regional Office, Philadelphia, PA, Wendy J. Roal, Inmate Appeals Administrator, Central Office, Washington, D.C., William Radloff, Unit Manager, M. Boutin, Lieutenant, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/37/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 160233
+cites_cases: ["218 F.3d 144", "28 C.F.R. § 541.60-68", "28 C.F.R. § 541.67", "532 U.S. 731", "534 U.S. 516", "898 F.2d 849"]
+---
+
+# Feaster v. United States Bureau of Prisons
+
+## Head matter
+
+Michael A. FEASTER, Plaintiff-Appellant, v. UNITED STATES BUREAU OF PRISONS, Federal Correctional Institute, Ray Brook, New York, C. Sullivan, Unit Manager, FCI Ray Brook, D. Ryan, Disciplinary Hearing Officer, FCI Ray Brook, B. Dimpsey, Case Manager Coordinator, FCI Ray Brook, Lydia Zaunbrecher, Dr., Clinical Director, FCI Ray Brook, Dave Chapman, Associate Warden of Operations, FCI Ray Brook, Don Stine, Associate Warden of Programs, FCI Ray Brook, Ron Wiley, Warden, FCI Ray Brook, Dena Davion, Regional Hearing Administrator, Northeast Regional Office, Philadelphia, PA, Wendy J. Roal, Inmate Appeals Administrator, Central Office, Washington, D.C., William Radloff, Unit Manager, M. Boutin, Lieutenant, Defendants-Appellees.
+Docket No. 00-0118.
+United States Court of Appeals, Second Circuit.
+May 10, 2002.
+Mara E. Trager, Akin, Gump, Strauss, Hauer & Feld, New York, NY, for Appellant.
+Elizabeth S. Riker, United States Attorney’s Office, Northern District of New York, Syracuse, NY. (On Submission), for Appellees.
+Present McLAUGHLIN, PARKER and SOTOMAYOR, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the appeal from the district court’s grant of summary judgment to the defendants be and it hereby is AFFIRMED IN PART and VACATED AND REMANDED IN PART.
+Michael A. Feaster, an HIV positive inmate confined for over three years to segregated housing at the Ray Brook Correctional Facility in Ray Brook, New York, under a Bureau of Prisons program to segregate HIV-positive prisoners who pose a threat to other inmates, see 28 C.F.R. § 541.60-68, appeals from a March 30, 2000 decision and order of the United States District Court for the Northern District of New York (Lawrence E. Kahn, Judge) summarily dismissing Feaster’s case in its entirety. On appeal, Feaster raises a due process challenge to procedures used at a ninety-day review of his SHU status in October 1998, claims that prison officials retaliated against him for writing to his Congresswoman by removing him from his work assignment, and attempts to raise state law claims for negligence and infliction of emotional distress based on incidents in which a member of the prison staff stated that Feaster was HIV positive and homosexual within the hearing of other inmates. This Court requested briefing on five issues:
+1) whether appellant’s due process claim challenging the procedures used at his October 1998 review hearing, held in accordance with 28 C.F.R. § 541.67, must be exhausted pursuant to 42 U.S.C. § 1997e(a);
+2) whether appellant’s due process rights were violated when the appellees kept him in SHU based on evidence that was not presented at appellant’s October 1998 review hearing;
+3) whether appellant stated a claim for being removed from his work assignment in retaliation for writing to his Congresswoman;
+4) whether appellant’s claims for monetary damages are barred by the doctrine of qualified immunity; and
+5) whether appellant stated state law claims of negligence and infliction of emotional distress.
+This Court first finds that Feaster failed to exhaust his federal due process claim as required by 42 U.S.C. § 1997e(a). 42 U.S.C. § 1997e(a) provides that “[n]o action shall be brought with respect to prison conditions under section 1983 of this title, or any other Federal law, by a prisoner confined in any jail, prison, or correctional facility until such administrative remedies as are available are exhausted.” Under the Supreme Court’s recent decision in Porter v. Nussle, we find that Feaster’s due process and retaliation claim regards “prison conditions.” Porter v. Nussle, 534 U.S. 516, 122 S.Ct. 983,-, 152 L.Ed.2d 12 (2002), slip op. at 7 (finding an event apparently affecting a single inmate to regard “prison conditions”). Furthermore, we find that as the Bureau of Prisons had available administrative avenues for complaints of this type, Feaster was bound under 42 U.S.C. § 1997e(a) to exhaust those remedies before petitioning the courts for relief. See Booth v. Churner, 532 U.S. 731, 740-41, 121 S.Ct. 1819, 149 L.Ed.2d 958 (2001)(requiring an inmate to exhaust even those available proceedings which could not grant the relief sought); Johnpoll v. Thornburgh, 898 F.2d 849, 850 (2d Cir.1990) (considering the Bureau of Prison’s administrative remedy program “available” for exhaustion purposes). As Feaster concedes, he did not appeal from the 90-day review recommendation that is the subject of his due process challenge, and we find no misconduct or misrepresentations on the part of BOP officials that warrant excusing Feaster’s failure to exhaust. Because Feaster’s due process claim fails on exhaustion grounds, therefore, we affirm the district court’s dismissal of the claim and do not examine the second issue regarding the claim’s merits. By contrast, we cannot affirm the district court with respect to the retaliation claim because we find that Feaster, by alleging in his complaint that he was told the reason for his removal from the prison laundry was because he wrote to his congressional representative, sufficiently stated a retaliation claim for 12(b)(6) purposes; however, we vacate and remand the district court’s dismissal of Feaster’s retaliation claim so that the district court may determine whether Feaster properly exhausted available administrative remedies on that count. During remand, the district court may also consider whether Feaster has alleged an equal protection claim based on his statement that he received more severe discipline for the November 1997 sexual incident because of his sexual orientation, and whether, should such a claim exist, Porter v. Nussle’s exhaustion requirements impact that claim as well.
+As to Feaster’s state law claims, we vacate and remand to the district court for clarification of the grounds on which the district court dismissed these claims including whether, should exhaustion preclude Feaster’s remaining federal claims, the district court had pendant jurisdiction over the state law issues. See Minzer v. Keegan, 218 F.3d 144, 152 (2d Cir.2000) (declining pendant jurisdiction over state law claims).
+Having affirmed the dismissal of Feast-er’s due process claim because of his failure to exhaust, and having vacated and remanded his retaliation and state law claims, this Court declines to reach the question of qualified immunity.
+For the reasons set forth above, the district court’s grant of summary judgment to the defendants is AFFIRMED IN PART and VACATED AND REMANDED IN PART.
+Each party is to bear its own costs.
