@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "00-1767"
+decided: "2001-11-02"
+citations: ["26 F. App'x 40"]
+parties: ["UNITED STATES of America, Appellee, v. Anthony MARTINEZ, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/26/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1959054
+cites_cases: ["18 U.S.C. § 1791", "18 U.S.C. § 201", "191 F.3d 156", "66 F.3d 544", "78 F.3d 73", "935 F.2d 445"]
+---
+
+# United States v. Martinez
+
+## Head matter
+
+UNITED STATES of America, Appellee, v. Anthony MARTINEZ, Defendant-Appellant.
+No. 00-1767.
+United States Court of Appeals, Second Circuit.
+Nov. 2, 2001.
+Jeremy Gutman, Esq.; Sam A. Schmidt, on the brief, New York, NY, for appellant.
+John R. Kroger, Assistant United States Attorney; Alan Vinegrad, United States Attorney for the Eastern District of New York, Susan Corkery, Assistant United States Attorney, on the brief, Brooklyn, NY, for appellee.
+Present WALKER, Chief Judge, NEWMAN, KEARSE, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED AND DECREED that the judgment of said district court be and it hereby is AFFIRMED.
+Defendant-appellant Anthony Martinez appeals from the November 20, 2000 judgment convicting him, after a jury trial, of three counts of bribery in violation of 18 U.S.C. § 201(b)(2)(C) and one count of providing contraband to an inmate in violation of 18 U.S.C. § 1791. Martinez was sentenced to 78 months’ imprisonment, which he is currently serving, three years of supervised release, and a $400 special assessment. On appeal, Martinez challenges the district court’s denial of his motion for a new trial based on newly discovered evidence, brought pursuant to Rule 33 of the Federal Rules of Criminal Procedure.
+This appeal from the district court’s denial of a new trial arises from the post-trial revelation that Raymond Saladino, a prison inmate and government “cooperator” who played a central role in the investigation of Martinez, perjured himself at Martinez’s trial. In December 1996 and January 1997, Saladino was authorized by government investigators to offer to pay bribes to Martinez, a unit manager at the Metropolitan Detention Center, in exchange for authorizing prohibited visits and smuggling sham heroin into prison. At Martinez’s trial, the government offered audio and video tapes of Martinez accepting the bribes, documentary and other evidence to establish that Martinez had granted the requested favors, and Saladino’s testimony concerning his role in the investigation. Saladino also testified that he had undergone a moral transformation after his incarceration, as a result of which he was no longer involved in criminal activity and was now testifying truthfully. Martinez, on the other hand, did not deny that he took the bribes; rather, he raised the defense of entrapment, claiming that he was improperly induced to take the bribes by a combination of his sleep disorder and the fear aroused in him by Saladino’s and another government agent’s reputed or claimed violent pasts and ties to organized crime. After Martinez’s conviction, the government learned that, contrary to his moral transformation testimony, Saladino had been dealing drugs and possibly committing other crimes during the period of his government cooperation.
+Martinez moved for a new trial on the ground that Saladino’s perjury was material and that the jury, had it known of the perjury, would have likely reached a different verdict. The district court denied the motion, finding that the government had adduced sufficient independence evidence apart from Saladino’s testimony to support Martinez’s conviction and that, in light of the damage done to Saladino’s credibility on cross-examination, the evidence of perjury was cumulative and hence immaterial.
+On appeal, Martinez claims that the district court erred in denying him a new trial because (1) the government’s rebuttal of Martinez’s entrapment defense, namely that Martinez was predisposed to commit the crimes, rested entirely on Saladino’s testimony; and (2) the evidence of Saladino’s perjury was material because it would illuminate Saladino’s ability to manipulate and deceive and undermine the jury’s basis for believing Saladino because his “moral transformation” was a sham.
+We review the denial of a Rule 33 motion for abuse of discretion, accepting the district court’s factual findings unless they are clearly erroneous. United States v. Gallego, 191 F.3d 156, 161 (2d Cir.1999).
+Where, as here, the government neither knew nor should have known of its witness’s perjury at the time of trial, Martinez must make the following showing to win a new trial: (1) that the perjured testimony was material; and (2) but for the perjured testimony, the defendant would most likely not have been convicted. Id. at 162. Martinez cannot make this showing.
+First, we are unpersuaded by Martinez’s claim that because Saladino was the sole source of evidence of Martinez’s predisposition to take bribes, Martinez would most likely not have been convicted but for the perjured testimony. Unlike the cases cited by Martinez in support of this contention, see, e.g., United States v. Wallach, 935 F.2d 445, 458 (2d Cir.1991), the government’s witness here was not the sole or essential source of evidence concerning Martinez’s predisposition. Rather, as the district court found, the government’s tapes showed that Martinez took the bribes and agreed to smuggle drugs into prison knowingly, without reluctance, and at times even eagerly. See United States v. Salerno, 66 F.3d 544, 547 (2d Cir.1995) (noting that predisposition can be shown by evidence of “a willingness to commit the crime for which [the defendant] is charged as evidenced by the accused’s ready response to the inducement”) (internal quotations omitted). Moreover, the district court found that because Martinez testified, the jury was able to determine whether it found his sleep disorder/intimidation defense credible. We do not find the district court’s findings on these points to be clearly erroneous.
+Second, we agree with the district court’s finding that the evidence of Saladino’s perjury would have been cumulative and hence immaterial given the extensive impeachment of Saladino’s character on cross-examination. As we have repeatedly held, “new impeachment evidence is not material, and thus a new trial is not required when the suppressed impeachment evidence merely furnishes an additional basis on which to impeach a witness whose credibility has already been shown to be questionable.” United States v. Wong, 78 F.3d 73, 79 (2d Cir.1996) (internal quotation omitted, emphasis in original). In addition to the long list of Saladino’s past and even possibly present violent crimes, the defense’s cross-examination of Saladino also brought home to the jury his capacity to manipulate and willingness to obstruct justice. Two such instances were Saladino’s attempt to suborn his girlfriend’s perjury and his causing his mother to throw a gun into the ocean. The district court did not err in concluding that, given the effectiveness of the defense’s assault on Saladino’s credibility, the evidence of his perjury would have furnished but “an additional basis” of impeachment.
+Accordingly, for the reasons set forth above, the judgment of the district court is AFFIRMED.
