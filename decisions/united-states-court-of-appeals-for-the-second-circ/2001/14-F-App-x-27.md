@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "00-9332"
+decided: "2001-06-13"
+citations: ["14 F. App'x 27"]
+parties: ["Brett LOWRY, Plaintiff-Appellant, v. EASTMAN KODAK CO., Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/14/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 212445
+cites_cases: ["143 F.3d 71", "190 F.3d 1", "204 F.3d 326", "949 F.2d 637"]
+---
+
+# Lowry v. Eastman Kodak Co.
+
+## Head matter
+
+Brett LOWRY, Plaintiff-Appellant, v. EASTMAN KODAK CO., Defendant-Appellee.
+No. 00-9332.
+United States Court of Appeals, Second Circuit.
+June 13, 2001.
+Mark Hannabury, Law Offices of Charles W. Rogers, Rochester, NY, on submission, for appellant.
+Todd R. Shinaman and Stanley Matusz, Nixon Peabody LLP, Rochester, NY, on submission, for appellee.
+Present LEVAL, POOLER and SACK, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+ON CONSIDERATION WHEREOF, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the order of said District Court be and it hereby is AFFIRMED.
+Brett Lowry appeals from an order by the United States District Court for the Western District of New York (Siragusa, J.) denying his motion to amend his second amended complaint and granting summary judgment to Kodak. For the reasons given below, we affirm.
+Brett Lowry, a 20-year Kodak veteran, sought a position in Kodak’s Steam and Electric Department in November 1993. He began in Building 321, but moved to Building 31, home of high-pressure, coal fired boilers which generate steam and electricity for Kodak. The boilers were built in the 1930s and 1940s, and burn between 7 and 10 tons of coal an hour. The boilers are staffed twenty-four hours a day, seven days a week, using rotating shifts. Lowry began his training as a utility helper, responsible for removing ash from the boilers. Later, he began training on operation of the boilers. Operating the boilers is a physically demanding task.
+Lowry was in pay grade code 11 during his time in Building 31. With the exception of employees in grades 13 through 16, all employees in Building 31 were rotated through the various positions for which they were trained. The Steam and Electric Department Training Plan required employees to “learn and be able to perform two (2) or more jobs in the learning progression.” The cross-training was needed to permit vacation scheduling and for safety reasons such as prompt, proper responses to boiler emergencies.
+Lowry trained as a utility helper and boiler operator and moved between those two jobs. On May 20, 1995, he fell down a set of stairs, injuring his neck, shoulder and right arm. He suffered from cervical neck pain and right arm pain, and possible aggravation of a longstanding case of tendonitis. Lowry was placed on work restriction of no lifting over 10 pounds and limited use of right hand and back. The restriction was anticipated to last between one and two weeks. Lowry was assigned, temporarily, to rewrite the department’s Standard Operating Procedures Manual and to check diagrams, blueprints and procedures for accuracy. However, Lowry told his supervisor he could not complete the assignment because of pain. Lowry left work and was declared unable to work by his doctor.
+After six months out on disability, Lowry was evaluated. It was determined he could work with the restrictions of limited use of right arm; no use of right arm above shoulder level and no lifting of more than 15 pounds. Kodak determined Lowry could not be accommodated on a long-term basis. Lowry was eventually discharged by Kodak.
+Lowry commenced the instant action on November 5, 1998, alleging he was “actually disabled.” He filed an amended complaint on November 23, 1998. The district court’s scheduling order, amended several times, set March 15, 1999 as the last date for amended pleadings and April 25, 2000 as the deadline for discovery completion. Kodak moved for summary judgment on May 5, 2000. On August 2, 2000, Lowry filed a motion seeking leave to amend his complaint to add a new cause of action, alleging that Kodak perceived Lowry as being substantially limited in a major life activity. The district court denied Lowry’s motion to amend his complaint as untimely and futile. It also granted summary judgment in favor of Kodak, finding Lowry failed to make out a prima facie ADA claim. This appeal followed.
+Denials of leave to amend a complaint are reviewed for abuse of discretion. Krumme v. Westpoint Stevens Inc., 143 F.3d 71, 88 (2d Cir.1998). Leave to amend a complaint “shall be freely given when justice so requires.” Fed.R.Civ.P. 15(a). When a motion for leave to amend is brought after the time for making such motions set forth in the district court scheduling order passes, however, Fed.R.Civ.P. 16(b) governs. Parker v. Columbia Pictures Indus., 204 F.3d 326, 339-40 (2d Cir.2000). Under Fed.R.Civ.P 16(b), district court scheduling orders “shall not be modified except upon a showing of good cause.” We do not find a district court abused its discretion “in denying leave to amend the pleadings after the deadline set in the scheduling order where the moving party has failed to establish good cause.” Parker, 204 F.3d at 340. Moreover, “a finding of ‘good cause’ depends on the diligence of the moving party.” Id.
+In the instant case, Lowry sought to amend to add a new theory for his ADA action, that Kodak “perceived the plaintiff as having an impairment which substantially prevented the plaintiff from performing a major life activity.” However, Lowry offers no good cause for his delay in filing an amended complaint. Even assuming, as Lowry claims, he did not discover evidence to support his new theory until February 2000, he did not seek to amend his complaint until five months after the new evidence surfaced. Discovery had closed, and a motion for summary judgment was pending. Given these circumstances, we find the district court did not abuse its discretion in denying plaintiff permission to amend.
+Further, the district court correctly entered summary judgment for Kodak because Lowry cannot make out a prima facie case of discrimination under the ADA. A prima facie showing under the ADA requires Lowry to establish (1) he is an individual with a disability within the meaning of the statute; (2) Kodak had notice of his disability; (3) with reasonable accommodation (or not) he could perform the essential functions of the job he had or the job he sought; and (4) Kodak refused to make such accommodations. Mitchell v. Washingtonville Cent. Sch. Dist., 190 F.3d 1, 6 (2d Cir.1999).
+Even assuming arguendo Lowry could show he were disabled within the meaning of the statute, we still find that his claim fails because he cannot satisfy the third prong of the prima facie case-that with or without reasonable accommodation, he could perform the essential functions of the job he had or sought. Lowry sought accommodation by being hired as a boiler operator in Building 31 with a reduced workload. Lowry himself admitted he could not perform all the necessary functions of that job. Reasonable accommodation does not include modifications that would eliminate an essential job function. Gilbert v. Frank, 949 F.2d 637, 642 (2d Cir.1991). Kodak submitted extensive evidence showing an ability to rotate through several different positions was an essential function of the boiler operator job, and plaintiff could not sufficiently refute that evidence. There was extensive affidavit testimony that the ability to rotate through the jobs was an essential function of any position in the Steam and Electric Department, and the training manual for the section also stressed cross-training. As rotating is an essential function of the boiler operator job, Lowry cannot establish he could perform the job he sought with or without a reasonable accommodation.
+We have examined Lowry’s remaining arguments and find them without merit.
