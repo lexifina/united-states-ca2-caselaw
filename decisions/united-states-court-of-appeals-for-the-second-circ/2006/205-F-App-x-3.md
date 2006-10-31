@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "05-0130-AG"
+decided: "2006-10-31"
+citations: ["205 F. App'x 3"]
+judges: ["Present: AMALYA L. KEARSE, SONIA SOTOMAYOR and BARRINGTON D. PARKER, Circuit Judges."]
+parties: ["Wen Xin CHEN, Petitioner, v. Alberto R. GONZALES, Attorney General of the United States, Respondent."]
+source_url: "https://static.case.law/f-appx/205/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3811668
+cites_cases: ["124 F.3d 381", "232 F.3d 279", "331 F.3d 297", "359 F.3d 121", "386 F.3d 66", "448 F.3d 102", "453 F.3d 99", "458 F.3d 40", "8 C.F.R. § 1208.13"]
+---
+
+# Wen Xin Chen v. Gonzales
+
+## Head matter
+
+Wen Xin CHEN, Petitioner, v. Alberto R. GONZALES, Attorney General of the United States, Respondent.
+No. 05-0130-AG.
+United States Court of Appeals, Second Circuit.
+Oct. 31, 2006.
+G. Victoria Calle, New York, NY, for Petitioner.
+James Noble, Assistant United States Attorney, for Matthew D. Orwig, United States Attorney for the Eastern District of Texas, Tyler, TX, for Respondent.
+Present: AMALYA L. KEARSE, SONIA SOTOMAYOR and BARRINGTON D. PARKER, Circuit Judges.
+. Pursuant to Federal Rule of Appellate Procedure 43(c)(2), Attorney General Alberto R. Gonzales is automatically substituted for former Attorney General John Ashcroft as the respondent in this case.
+
+## Majority
+
+SUMMARY ORDER
+Wen Xin Chen, a citizen of the People’s Republic of China, petitions for review of the December 9, 2004 per curiam order of the BIA adopting, affirming and supplementing the October 28, 2003 decision of Immigration Judge (“IJ”) Miriam K. Mills denying his application for asylum and withholding of removal, as well as his claim under the Convention Against Torture (“CAT”). In re Wen Xin Chen, No. [ A XX XXX XXX ] (B.I.A. Dec. 9, 2004), affg No. [ A XX XXX XXX ] (Immig. Ct. N.Y. City Oct. 28, 2003). The IJ ordered Chen’s removal to the People’s Republic of China upon finding clear and convincing evidence to substantiate two charges filed against him in a Notice to Appear dated June 10, 2002:(1) that he was an immigrant not in possession of a valid entry document, in violation of Immigration and Nationality Act (“INA”) section 212(a)(7)(A)(i)(I); and (2) that he was an alien who, “by fraud or willfully misrepresenting a material fact,” sought to procure some benefit under the INA, in violation of INA section 212(a)(6)(C)(i). We presume the parties’ familiarity with the underlying facts and procedural history of the case.
+Where, as here, the BIA adopts the decision of the IJ and supplements it, this Court reviews the decision of the IJ as supplemented by the BIA. See Heui Soo Kim v. Gonzales, 458 F.3d 40, 44 (2d Cir.2006). We review the agency’s factual findings, including adverse credibility determinations, under the substantial evidence standard. See Zhou Yun Zhang v. INS, 386 F.3d 66, 73 & n. 7 (2d Cir.2004). This Court generally grants “particular deference” to the credibility findings of the IJ. Montero v. INS, 124 F.3d 381, 386 (2d Cir.1997). However, “[t]he fact that an IJ or the BIA relied solely on an adverse credibility finding in dismissing an application does not insulate the decision from review.” Zhi Wei Pang v. Bureau of Citizenship and Immigration Sens., 448 F.3d 102, 107 (2d Cir.2006). Rather, this Court requires that the IJ’s reasons for an adverse credibility finding be “specific” and “cogent,” with a legitimate nexus to the finding. Secaida-Rosales v. INS, 331 F.3d 297, 307 (2d Cir.2003) (internal quotation marks omitted). In this case, none of the IJ’s three findings is supported by specific or cogent evidence in the record.
+First, the IJ erred in placing “excessive reliance” on the State Department reports on conditions in China. TianYong Chen v. INS, 359 F.3d 121, 130 (2d Cir.2004). While such reports provide a “useful and informative overview” of conditions in foreign countries, “their observations do not automatically discredit contrary evidence presented by the applicant, and they are not binding on the immigration court.” Id. (citations omitted). Here, the IJ declined to credit Chen’s account of his wife’s forced abortion on the basis of a report indicating that the Chinese government’s enforcement of its one-child policy was lax in Fujian province, where Chen and his wife lived. The report, we note, states only that the enforcement is “lax,” and not that it is nonexistent. Without more, the IJ may not base an adverse credibility finding on an alleged inconsistency between Chen’s unchallenged testimony regarding “the particular circumstances of [his] case,” id., and general observations made in a country report.
+Second, the IJ based her observation that Chen was “not credible because he failed to lay a reliable or proper foundation for any of his identity documents” on impermissible speculation regarding document-issuance practices in China. The IJ found it “implausible that authorities would issue respondent a household registration booklet through his father even[ ] when [Chen] was wanted by authorities ... for violating the birth control policy.” The record contains no information regarding China’s document practices insofar as they relate to that finding. Therefore a finding that Chen was “not credible” based on speculation about the process for acquiring household registration documentation in China is impermissible.
+Third, to the extent that the other bases for the IJ’s adverse credibility finding lack support in the record, the IJ impermissibly equated a lack of corroborative evidence with a lack of credibility. A lack of corroborative evidence alone does not necessarily undermine a petitioner’s credibility. See 8 C.F.R. § 1208.13(a) (“The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration.”); Diallo v. INS, 232 F.3d 279, 287 (2d Cir.2000) (“[C]orroboration cannot be the only factor taken into account because this would effectively require corroboration in all cases, contrary to explicit provisions in the law....”). We note further that the IJ drew impermissibly speculative inferences about the nonexistence of a relationship between Chen and his wife from his failure to provide original identity documents or authenticate the non-original documents he did possess. Moreover, the IJ failed to clarify what Chen should have done to authenticate his non-original documents. Cao He Lin, 428 F.3d at 404-05.
+We remand for further proceedings not inconsistent with this order because we cannot predict with confidence that the agency would reach the same result on remand based on an error-free credibility finding. See Li Hua Lin v. U.S. Dep’t of Justice, 453 F.3d 99, 107 (2d Cir.2006).
+As to the fraud charge brought under INA section 212(a)(6)(C)(i), we requested supplemental briefing on four related questions in an order dated April 20, 2006. The Government subsequently withdrew the fraud charge, thus obviating the necessity for this Court’s consideration of the questions posed for supplemental briefing. We note, however, that on remand, the BIA should amend its order to reflect the withdrawal of the fraud charge and ensure that no holding with respect to that charge remains on the record.
+Finally, the IJ made no ruling as to Chen’s CAT claim, presumably because she had found Chen incredible. On remand, the IJ should reconsider this claim and Chen’s separate claims regarding his illegal departure.
+For the foregoing reasons, the petition for review is GRANTED, the BIA’s order is VACATED, and the case is REMANDED for further proceedings consistent with this decision.
+. United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, opened for signature Dec. 10, 1984, S. Treaty Doc. No. 100-20 (1988), 1465 U.N.T.S. 85.
