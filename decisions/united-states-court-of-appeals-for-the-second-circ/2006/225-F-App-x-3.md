@@ -1,0 +1,33 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "05-5388-cv"
+decided: "2006-11-27"
+citations: ["225 F. App'x 3"]
+parties: ["Annie WATSON, Plaintiff-Appellee, v. E.S. SUTTON, INC., Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/225/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5483810
+cites_cases: ["156 F.3d 136", "163 F.3d 684", "31 F.3d 113", "441 F.3d 119", "51 F.3d 1116", "538 U.S. 408", "62 F.3d 456", "672 F.2d 1014", "985 F.2d 680", "994 F.2d 49"]
+---
+
+# Watson v. E.S. Sutton, Inc.
+
+## Head matter
+
+Annie WATSON, Plaintiff-Appellee, v. E.S. SUTTON, INC., Defendant-Appellant.
+No. 05-5388-cv.
+United States Court of Appeals, Second Circuit.
+Nov. 27, 2006.
+Roger P. McTiernan (Suzanne M. Hal-bardier, Laurel A. Wedinger, on the brief), New York, N.Y., for Plaintiff-Appellee.
+Geri S. Kraus (Maranda E. Fritz, on the brief), New York, N.Y., for Defendant-Appellant.
+Present: Hon. ROBERT A. KATZMANN, Hon. RICHARD C. WESLEY, Hon. PETER W. HALL, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+Defendant-appellant E.S. Sutton, Inc. (“ESS”) appeals the amended judgment in favor of plaintiff Annie Watson for $2,261,000 in compensatory and punitive damages, following a jury verdict in Watson’s favor on her claims of retaliation under federal, state, and local law. On appeal, ESS argues that (1) plaintiff did not engage in protected activity as a matter of law and that the jury’s verdict was against the weight of the evidence; (2) the district court’s decision to admit certain evidence offered by Watson and to exclude certain evidence offered by ESS requires a new trial; and (3) the awarded damages were excessive and speculative. We assume the parties’ familiarity with the facts, the proceedings below, and the specification of issues on appeal. We hold as follows.
+First, ESS waived any argument that there was insufficient evidence to support the jury’s verdict when it failed to move for a judgment as a matter of law under Fed.R.Civ.P. 50(a). See, e.g., Russo v. New York, 672 F.2d 1014, 1021-22 (2d Cir.1982) (holding that an insufficiency of the evidence claim is waived by failure to move for a directed verdict unless such a result would produce “manifest injustice”). Similarly, there was no abuse of discretion in the district court’s determination that ESS waived any argument that plaintiffs complaint was not protected activity as a matter of law when it failed to raise this argument at any time prior to its post-trial motions. See Sequa Corp. v. GBJ Corp., 156 F.3d 136, 143 (2d Cir.1998) (“Rulings on motions under Rule[ ] ... 59(a) are committed to the sound discretion of the district court, and are reviewed on appeal only for abuse of that discretion.”); cf. Mellon Bank, N.A. v. United Bank Corp. of N.Y., 31 F.3d 113, 116 (2d Cir.1994) (declining to review an argument not raised before the district court when the party “clearly had the opportunity to raise” it below).
+Second, as to ESS’ objections to various of the district court’s evidentiary rulings, we note as a preliminary matter that ESS failed to object at trial to much of the evidence it now argues was improperly admitted. See Fed.R.Evid. 103 (noting that a party wishing to preserve an objection to the admission of testimony must make “a timely objection ... stating the specific ground of objection”). Thus, ESS failed to preserve many of the objections it now raises on appeal. However, we need not decide which, if any, of ESS’ few properly preserved objections constitute error because we will reverse on this ground “only ... where the improper admission or exclusion of evidence affects ‘a substantial right’ of one of the parties.” Malek v. Fed. Ins. Co., 994 F.2d 49, 55 (2d Cir.1993) (quoting Fed.R.Evid. 103(a)). Here, there was overwhelming evidence in support of plaintiffs retaliation claim and, even assuming, arguendo, that some evidence irrelevant to the retaliation claim was admitted, the district court instructed the jury as to what evidence was relevant to the retaliation claim, and ESS never objected to the jury instructions. Cf. United States v. Snype, 441 F.3d 119, 129 (2d Cir.2006) (“[T]he law recognizes a strong presumption that juries follow limiting instructions.”). Thus, we hold that there was no error here that affected a “substantial right” of one of the parties, and ESS is not entitled to a new trial on this ground.
+Third, we turn to ESS’ objections to the damages award. In reviewing a claim that a damages award is excessive, we “accord substantial deference to the jury’s determination of factual issues.” See, e.g., Scala v. Moore McCormack Lines, Inc., 985 F.2d 680, 683 (2d Cir.1993) (internal quotation marks omitted). Here, there was sufficient evidence in the record to support the awarded damages as remitted by the district court. Further, viewing the evidence most favorably to plaintiff, the award was not so large that it “shock[s] the judicial conscience” or “deviates materially” from awards in other comparable cases. See id. (internal quotation marks omitted); N.Y.C.P.L.R. § 5501(c). Likewise, as to ESS’ argument that plaintiff faded to mitigate her damages, we find no basis to reverse the jury’s determination that plaintiff “acted reasonably in attempting to gain other employment.” Hawkins v. 1115 Legal Serv. Care, 163 F.3d 684, 695 (2d Cir.1998) (internal quotation marks omitted). Finally, ESS challenges the award of punitive damages. We hold that this award of punitive damages, which was half the size of the compensatory damages award, was reasonable in light of “(1) the degree of reprehensibility of the defendant’s misconduct; (2) the disparity between the actual or potential harm suffered by the plaintiff and the punitive damages award; and (3) the difference between the punitive damages awarded by the jury and the civil penalties authorized or imposed in comparable cases.” State Farm Mut. Auto. Ins. Co. v. Campbell, 538 U.S. 408, 418, 123 S.Ct. 1513,155 L.Ed.2d 585 (2003).
+We have considered all of ESS’ other arguments and find them without merit. Accordingly, for the foregoing reasons, the judgment of the district court is hereby AFFIRMED.
+. At oral argument, ESS argued that it had preserved some of these objections through its pre-trial motions in limine. Although motions in limine may preserve an objection under some circumstances, see United States v. Yu-Leung, 51 F.3d 1116, 1121 (2d Cir. 1995), ESS waived any objection under Rule 403 by failing to renew them during trial. See United States v. Birbal, 62 F.3d 456, 465 (2d Cir.1995).
