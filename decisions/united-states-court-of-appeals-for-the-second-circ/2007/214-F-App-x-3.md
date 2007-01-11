@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "05-6391-ag"
+decided: "2007-01-11"
+citations: ["214 F. App'x 3"]
+judges: ["PRESENT: Hon. GUIDO CALABRESI, Hon. JOSÉ A. CABRANES, Circuit Judges, Hon. EDWARD R. KORMAN, Chief Judge."]
+parties: ["CHUAN MIN ZHANG, Petitioner, v. Alberto R. GONZALES, Attorney General, Respondent."]
+source_url: "https://static.case.law/f-appx/214/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3974999
+cites_cases: ["232 F.3d 279", "329 F.3d 140", "331 F.3d 297", "357 F.3d 169", "359 F.3d 121", "361 F.3d 161", "386 F.3d 66", "417 F.3d 268", "428 F.3d 391", "431 F.3d 84", "441 F.3d 82", "471 F.3d 315", "8 C.F.R. § 1208.16", "8 C.F.R. § 1208.18", "8 U.S.C. § 1252"]
+---
+
+# Chuan Min Zhang v. Gonzales
+
+## Head matter
+
+CHUAN MIN ZHANG, Petitioner, v. Alberto R. GONZALES, Attorney General, Respondent.
+No. 05-6391-ag.
+United States Court of Appeals, Second Circuit.
+Jan. 11, 2007.
+Aleksander Milch (Charles Christophe, on the brief), Christophe and Associates, P.C., New York, New York, for Petitioner.
+William J. Schneider, Assistant United States Attorney, for Paula D. Silsby, United States Attorney for the District of Maine, Portland, Maine, for Respondent.
+PRESENT: Hon. GUIDO CALABRESI, Hon. JOSÉ A. CABRANES, Circuit Judges, Hon. EDWARD R. KORMAN, Chief Judge.
+The Honorable Edward R. Korman, of the District of New York, sitting by designation. United States District Court for the Eastern
+
+## Majority
+
+SUMMARY ORDER
+Chuan Min Zhang, through counsel, petitions for review of the BIA’s decision affirming Immigration Judge (“IJ”) Roxanne Hladylowycz’s denial of his applications for asylum, withholding of removal, and relief under the Convention Against Torture (“CAT”). At oral argument, Zhang’s counsel effectively waived his asylum and withholding of removal claims. Accordingly, we consider only his CAT claim here. We presume the parties’ familiarity with the underlying facts and procedural history of the case.
+Where, as here, the BIA adopts the decision of the IJ and supplements the IJ’s decision, we review the decision of the IJ as supplemented by the BIA. See Yu Yin Yang v. Gonzales, 431 F.3d 84, 85 (2d Cir.2005) (per curiam); Yan Chen v. Gonzales, 417 F.3d 268, 271 (2d Cir.2005).
+I. Adverse Credibility Determination
+We review the agency’s factual findings, including adverse credibility determinations, under the substantial evidence standard, treating them as “conclusive unless any reasonable adjudicator would be compelled to conclude to the contrary.” 8 U.S.C. § 1252(b)(4)(B); see, e.g., Zhou Yun Zhang v. INS, 386 F.3d 66, 73 & n. 7 (2d Cir.2004). Nevertheless, “the fact that the [agency] has relied primarily on credibility grounds in dismissing an asylum application cannot insulate the decision from review.” Ramsameachire v. Ashcroft, 357 F.3d 169, 178 (2d Cir.2004). We will vacate and remand for new findings if the agency’s reasoning or its fact-finding process was sufficiently flawed. Cao He Lin v. United States DOJ, 428 F.3d 391, 406 (2d Cir.2005); Tian-Yong Chen v. INS, 359 F.3d 121, 129 (2d Cir.2004); see also Xiao Ji Chen v. United States DOJ, 471 F.3d 315, 335 (2d Cir.2006) (agreeing with this principle, but avoiding remand, in spite of deficiencies in an adverse credibility determination, because it could be confidently predicted that the IJ would adhere to the decision were the case remanded). An adverse credibility determination must be based on “specific, cogent reasons” that “bear a legitimate nexus” to the finding. Secaida-Rosales v. INS, 331 F.3d 297, 307 (2d Cir.2003).
+The IJ’s adverse credibility finding here was not supported by substantial evidence. First, the IJ found it suspect that Zhang had not mentioned until cross-examination that his family had two houses, only one of which was demolished. We do not see how this undermines Zhang’s credibility, particularly because the house in which his family lived was the one that was destroyed. The IJ also found that Zhang failed to offer documentary proof of his mistreatment in prison. At no point was Zhang asked whether such documentation existed or whether it was reasonably available. Therefore, the IJ cannot use the absence of such corroboration as a basis for her adverse credibility determination. See Diallo v. INS, 232 F.3d 279, 289-90 (2d Cir.2000); Jin Shui Qiu v. Ashcroft, 329 F.3d 140, 153 (2d Cir.2003). Finally, the IJ did not believe Zhang’s explanation that his notarial birth certificate was obtained by his father, who allegedly bribed a government official to issue it. This finding appears to be based in part on a mischaracterization of when Zhang left China; furthermore, it is peripheral to Zhang’s claim. Therefore, by itself, it cannot support the adverse credibility determination. See Secaida-Rosales, 331 F.3d at 307-08. While the IJ reasonably faulted Zhang for failing to corroborate his claim that his new house was lawfully built, this failure of corroboration cannot form the basis for the adverse credibility finding. See Diallo, 232 F.3d at 287.
+II. CAT Relief
+Substantial evidence does not support the IJ’s conclusion that “[t]he respondent has set forth no facts or circumstances to show that it is more likely than not he would be tortured if forced to return to the People’s Republic of China.” To establish eligibility for CAT, an applicant must demonstrate that it is more likely than not that he will be tortured if removed to the proposed country of removal. 8 C.F.R. § 1208.16(c)(2). In evaluating whether an applicant has sustained his burden of proof, “[e]vidence of past torture inflicted upon the applicant” should be considered, 8 C.F.R. § 1208.16(c)(3)(i), along with other evidence of maltreatment. Zhang described being beaten and immersed or doused in water. Because the IJ’s credibility finding was erroneous, it was also error for her not to consider whether the past mistreatment Zhang described met the definition of torture under 8 C.F.R. § 1208.18(a). See Pavlova v. INS, 441 F.3d 82, 92 (2d Cir.2006). To the extent that the agency found that Zhang’s prior treatment did not qualify because the harm he identified was the result of a lawful sanction, we find that the beating and dousing in water were sanctions that defeated the object and purpose of CAT and therefore could qualify if that mistreatment otherwise meets the definition of torture under the regulations and BIA and court decisions. See 8 C.F.R. § 1208.18(a)(3); Khouzam v. Ashcroft, 361 F.3d 161, 169 (2d Cir.2004). Accordingly, on remand, the agency should consider Zhang’s past mistreatment in evaluating whether he has sustained his burden to show he will more likely than not be tortured if returned to China. See 8 C.F.R. § 1208.16(c)(3).
+For the foregoing reasons, the petition for review is DENIED with respect to the asylum and withholding of removal claims, GRANTED with respect to the CAT claim, the BIA’s order is VACATED as to the CAT claim, and the case is REMANDED to the BIA for further proceedings consistent with this decision. Having completed our review, any stay of removal that the Court previously granted in this petition is VACATED, and any pending motion for a stay of removal in this petition is DENIED as moot. Any pending request for oral argument in this petition is DENIED in accordance with Federal Rule of Appellate Procedure 34(a)(2), and Second Circuit Local Rule 34(d)(1).
