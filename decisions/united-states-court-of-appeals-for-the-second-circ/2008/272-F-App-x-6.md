@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "06-4518-cv."
+decided: "2008-03-26"
+citations: ["272 F. App'x 6"]
+parties: ["Robert L. GERACE, Plaintiff-Appellant, v. UNITED STATES of America, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/272/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3623355
+cites_cases: ["138 A.D.2d 571", "149 F.3d 137", "20 L.Ed.2d 653", "2006 U.S. Dist. LEXIS 57749", "2006 WL 2376696", "359 F.3d 132", "387 F.2d 573", "391 U.S. 914", "470 U.S. 564", "486 F.2d 34", "526 N.Y.S.2d 152", "532 N.E.2d 92", "535 N.Y.S.2d 586", "590 F.2d 415", "73 N.Y.2d 721", "863 F.2d 1091", "88 S.Ct. 1808", "99 N.Y.2d 542"]
+---
+
+# Gerace v. United States
+
+## Head matter
+
+Robert L. GERACE, Plaintiff-Appellant, v. UNITED STATES of America, Defendant-Appellee.
+No. 06-4518-cv.
+United States Court of Appeals, Second Circuit.
+March 26, 2008.
+Joseph S. Cote, III, Syracuse, NY, for Plaintiff-Appellant.
+Paula Ryan Conan, Assistant United States Attorney (Elizabeth S. Riker, Assistant United States Attorney, of counsel; Glenn T. Suddaby, United States Attorney for the Northern District of New York, on the brief), Syracuse, NY, for Defendants Appellee.
+PRESENT: Hon. RALPH K. WINTER, Hon. CHESTER J. STRAUB, and Hon. ROBERTA. KATZMANN, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+Plaintiff-Appellant Robert L. Geraee appeals from a judgment of the United States District Court for the Northern District of New York (Neal P. McCurn, Judge), dismissing in its entirety Gerace’s medical malpractice action under the Federal Tort Claims Act, entered on August 16, 2006 following a bench trial. We assume the parties’ familiarity with the facts and the record of prior proceedings, which we reference only as necessary to explain our decision.
+Geraee disputes the District Court’s finding that Dr. Kishor Phadke was not informed of his complaints of atrial fibrillation in February and March 1998 and faults the court for not adequately addressing evidence offered to the contrary. Geraee also argues that the District Court should have found that he had hypertension, rendering anticoagulation therapy appropriate under the standard of care adopted by the court.
+We review the District Court’s findings of fact for clear error, and we will not ■overturn them unless they are unsupported by the record. See Fed.R.Civ.P. 52(a)(6); Payne v. United States, 359 F.3d 132, 134 (2d Cir.2004). The District Court’s determination that Dr. Phadke was not made aware of Gerace’s complaints of atrial fibrillation is a permissible view of the evidence, and so this finding is not clearly erroneous. See Anderson v. Bessemer City, 470 U.S. 564, 574, 105 S.Ct. 1504, 84 L.Ed.2d 518 (1985). Moreover, this view of the evidence was the result of a detailed evaluation of the conflicting testimony, in full compliance with Rule 52(a)(1). The District Court addressed the testimony of Dr. Frank Brand and Elaine Gerace, plaintiffs wife, and explained why the Geraces’ version of events was unconvincing. As for the testimony of Gerace’s co-workers, the District Court “was not required to mention evidence it considered to be of little value.” Krieger v. Gold Bond Bldg. Prods., 863 F.2d 1091,1098 (2d Cir.1988). “[N]othing in the Rules requires either punctilious detail or slavish tracing of the claims issue by issue and witness by witness.” Id. at 1097 (internal quotation marks omitted). Accordingly, Gerace’s ancillary argument that the District Court erroneously ruled that the opinion of his expert witness, Dr. Michael D. Pressel, was based on facts unsupported by the record is without merit. In addition, Gerace’s argument that Dr. Phadke conceded that he would have prescribed anticoagulation therapy had he known Gerace was suffering from atrial fibrillation is unavailing because, as the District Court found, Dr. Phadke did not know this.
+Finally, we cannot say that it was clear error for the District Court to credit the testimony of Dr. Debra Buchan to the effect that Gerace did not have hypertension within the meaning of the guidelines established to determine when to prescribe anticoagulation therapy.
+Gerace further argues that the District Court improperly limited his re-cross-examination of Dr. Buchan regarding hypertension. “We review the district court’s decision to limit cross-examination for an abuse of discretion.” Gasperini v. Ctr. for Humanities, Inc., 149 F.3d 137, 143 (2d Cir.1998); see also N.V. Maatschappij Voor Industriele Waarden v. A.O. Smith Corp., 590 F.2d 415, 421 (2d Cir. 1978) (“Although cross-examination is an essential element of our system of adversarial advocacy, the proper scope for cross-questioning is, like the qualification of witnesses, a matter of trial court discretion which we do not lightly disturb.”).
+Gerace cross-examined Dr. Buchan about hypertension at length. The District Court did not exceed its allowable discretion in cutting off Gerace’s re-cross-examination when, after the brief discussion of hypertension on re-direct, his inquiry turned to related documents not in evidence. In addition, we note that the District Court did not restrict Gerace’s cross-examination of Dr. Stephen D. Nash regarding hypertension.
+The District Court’s finding with respect to whether Dr. Phadke departed from the accepted standard of medical care is subject to de novo review. See Payne, 359 F.3d at 135. We have held, however, that “ ‘the trial court’s finding should ordinarily stand unless the court manifests an incorrect conception of the applicable law.’” Id. at 137 (quoting Esso Standard Oil S.A. v. S.S. Gasbras Sul, 387 F.2d 573, 580 (2d Cir.1967), cert. denied, 391 U.S. 914, 88 S.Ct. 1808, 20 L.Ed.2d 653 (1968)). We have also suggested that this “rule only applies to cases ‘where contrary decisions rest on exactly the same facts.’ ” Id. (quoting Dinnerstein v. United States, 486 F.2d 34, 37 n. 2 (2d Cir.1973)).
+With these standards in mind, we affirm for substantially the reasons set forth in the thorough opinion of the District Court. See Gerace v. United States, No. 03 Civ. 166, 2006 U.S. Dist. LEXIS 57749, 2006 WL 2376696, at *18-*29 (N.D.N.Y. Aug.10, 2006). It was Dr. Pressel’s opinion that Dr. Phadke should have taken steps to investigate and diagnose Gerace’s atrial fibrillation. But this testimony was too speculative and uncertain to establish that Dr. Phadke was negligent for failing to take such measures. See Diaz v. New York Downtown Hosp., 99 N.Y.2d 542, 544-45, 754 N.Y.S.2d 195, 784 N.E.2d 68, 68 (N.Y.2002); Gross v. Friedman, 526 N.Y.S.2d 152, 152, 138 A.D.2d 571, 571 (N.Y.App.Div.2d Dep’t), aff'd, 73 N.Y.2d 721, 535 N.Y.S.2d 586, 532 N.E.2d 92 (N.Y.1988). In addition, we agree with the District Court’s decision to adopt the guidelines for anticoagulation therapy developed by the Consensus Conference on Antithrombotic Therapy of the American College of Chest Physicians as the appropriate standard of care, regardless of the location of Dr. Pressel’s practice. And we further agree that under the circumstances the failure to prescribe anticoagulation therapy was not a departure from that standard. Accordingly, we need not address whether Gerace proved that Dr. Phadke’s conduct was a proximate cause of his injury.
+We have considered all of Gerace’s arguments and find them to be without merit.
+For these reasons, we AFFIRM the judgment of the District Court.
