@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "10-700-cv"
+decided: "2011-05-20"
+citations: ["423 F. App'x 3"]
+judges: ["Present: JOSÉ A. CABRANES, CHESTER J. STRAUB, REENA RAGGI, Circuit Judges."]
+parties: ["Lawrence GOETZ, R & L Leasing, L.L.C., Plaintiff-Appellees, v. Peter HERSHMAN, Siegel O’Conner Zangari O’Donnell & Beck, P.C., Defendants-Appellants."]
+source_url: "https://static.case.law/f-appx/423/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4072582
+cites_cases: ["283 F.3d 33", "288 Conn. 69", "310 F.3d 243", "333 U.S. 364", "352 F.3d 599", "414 F.3d 381", "42 Conn.App. 712", "470 U.S. 564", "534 F.3d 117", "538 F.3d 116", "584 F.3d 436", "587 F.3d 553", "616 F.3d 134", "67 F.3d 412", "682 A.2d 1026", "92 L.Ed. 746", "952 A.2d 1"]
+---
+
+# Goetz v. Hershman
+
+## Head matter
+
+Lawrence GOETZ, R & L Leasing, L.L.C., Plaintiff-Appellees, v. Peter HERSHMAN, Siegel O’Conner Zangari O’Donnell & Beck, P.C., Defendants-Appellants.
+No. 10-700-cv.
+United States Court of Appeals, Second Circuit.
+May 20, 2011.
+Matthew W. Naparty (Barbara D. Goldberg and Richard J. Montes, of counsel), Mauro Goldberg & Lilling LLP, Great Neck, NY, for Defendants-Appellants.
+Thomas J. Fleming, Olshan, Grundman, Frome, Rosenzweig & Wolosky, LLP, New York, NY, for Plaintiffs-Appellees.
+Present: JOSÉ A. CABRANES, CHESTER J. STRAUB, REENA RAGGI, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+Plaintiffs-appellees Lawrence Goetz and R & L Leasing, L.L.C. (jointly, “plaintiffs”) brought suit against defendants-appellants Peter Hershman and the law firm of Siegel O’Conner Zangari O’Donnell & Beck, P.C. (jointly, “defendants”), asserting claims for legal malpractice and breach of fiduciary duty. Defendants appeal from the denial of their motion for judgment as a matter of law under Federal Rule of Civil Procedure 50(b) after resting their case during a jury trial; a series of eviden-tiary rulings by the District Court; the District Court’s failure to itemize alleged damages on the verdict sheet before jury deliberation; and the amount of prejudgment interest awarded to plaintiffs under § 37-3a of the Connecticut General Statutes. We assume the parties’ familiarity with the facts and procedural history of this case and the issues raised on appeal.
+I. Appeal from judgment as a matter of law and evidentiary rulings
+We review de novo a district court’s denial of a motion for judgment as a matter of law, see Chartschlaa v. Nationwide Mid. Ins. Co., 538 F.3d 116, 121-22 (2d Cir.2008), and in doing so “consider the evidence in the light most favorable to the non-moving party and give that party the benefit of all reasonable inferences from the evidence that the jury might have drawn in that party’s favor,” id. at 122. Such a motion can be granted “only if there is ‘such a complete absence of evidence supporting the verdict that the jury’s findings could only have been the result of sheer surmise and conjecture, or [there is] such an overwhelming amount of evidence in favor of the movant that reasonable and fair minded [jurors] could not arrive at a verdict against [the moving party].’ ” Nimely v. City of New York, 414 F.3d 381, 390 (2d Cir.2005) (quoting LeBlanc-Sternberg v. Fletcher, 67 F.3d 412, 429 (2d Cir.1995)).
+We review a district court’s “decision to admit or exclude evidence ... for abuse of discretion.” Henry v. Wyeth Pharmaceuticals, Inc., 616 F.3d 134, 149 (2d Cir. 2010); cf. Sims v. Blot, 534 F.3d 117, 132 (2d Cir.2008) (“A district court has abused its discretion if it based its ruling on an erroneous view of the law or on a clearly erroneous assessment of the evidence, or rendered a decision that cannot be located within the range of permissible decisions.” (alteration, citations, and quotation marks omitted)). “A finding is ‘clearly erroneous’ when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.” United States v. United States Gypsum Co., 333 U.S. 364, 395, 68 S.Ct. 525, 92 L.Ed. 746 (1948); accord Anderson v. City of Bessemer City, 470 U.S. 564, 573-74, 105 S.Ct. 1504, 84 L.Ed.2d 518 (1985) (“If the district court’s account of the evidence is plausible in light of the record viewed in its entirety, the court of appeals may not reverse it even though convinced that had it been sitting as the trier of fact, it would have weighed the evidence differently. Where there are two permissible views of the evidence, the factfinder’s choice between them cannot be clearly erroneous.”).
+We review a timely objection to a verdict sheet de novo. See AMW Materials Testing, Inc. v. Town of Babylon, 584 F.3d 436, 449-50 (2d Cir.2009). When a party fails to object to a verdict sheet as required under Federal Rule of Civil Procedure 51 we review the verdict sheet for “fundamental error,” that is, error that is “so serious and flagrant that it goes to the very integrity of the trial.” S.E.C. v. Di-Bella, 587 F.3d 553, 569 (2d Cir.2009) (quoting Jams v. Ford Motor Co., 283 F.3d 33, 62 (2d Cir.2002)).
+The question of “the amount of recoverable damages is a question of fact,” that we review for clear error. Lucente v. Int’l Bus. Mach. Corp., 310 F.3d 243, 261 (2d Cir.2002) (quotation marks omitted).
+In its thoughtful and well-reasoned Opinion and Order of July 14, 2010, the District Court explained its reasons for denying judgment as a matter of law and carefully explained its rulings with regard to the other matters on appeal mentioned above. For substantially the reasons offered by the District Court, we affirm its order denying judgment as a matter of law and its various evidentiary rulings.
+II. Appeal of award of prejudgment interest
+While we generally review for abuse of discretion a district court’s award of prejudgment interest, New England Ins. Co. v. Healthcare Underwriters Mut. Ins. Co., 352 F.3d 599, 602-603 (2d Cir.2003), under Connecticut law “review is plenary” to the extent there is a challenge to “the applicability of § 37-3a under the circumstances.” Chapman Lumber, Inc. v. Tager, 288 Conn. 69, 100, 952 A.2d 1 (2008). In applying § 37-3a, the District Court relied on Chapman Lumber, Inc., in which the attorney “had conspired with [the client] to deprive the plaintiff of moneys that were owed to it.” Id. In the present case, it is not clear that defendants agreed to join a client’s “scheme to evade payment of his debt” such that “by assisting him in perpetrating that scheme, the [attorney] thereby became liable for all of the ensuing damage, including the interest that, absent the [attorney’s] assistance, only [the client] would have owed.” Id. at 102, 952 A.2d 1. Accordingly, it is not clear that the present action fits within a narrow reading of Chapman Lumber. Furthermore, § 37-3a only “applies to claims involving the wrongful detention of money after it becomes due and payable.” Foley v. Huntington Co., 42 Conn.App. 712, 682 A.2d 1026, 1043 (1996) (emphasis in original). Because the District Court in this case did not make a finding with regard to whether Richard Volpe or Hershman had any “due or payable” debt to plaintiffs that Hershman could have wrongfully detained or assisted in detaining, we vacate the award of prejudgment interest, and remand the cause to the District Court with instruction to reconsider, on the basis of the record before it, its award of prejudgment interest. Of course, on this question we intimate no view on the merits.
+CONCLUSION
+For the reasons stated above, the judgment of the District Court is AFFIRMED with respect to the District Court’s order denying judgment as a matter of law and its evidentiary rulings. The judgment of the District Court is VACATED solely with respect to the award of prejudgment interest and REMANDED for further proceedings consistent with this order.
