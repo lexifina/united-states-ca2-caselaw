@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "09-2782-cv"
+decided: "2011-08-19"
+citations: ["436 F. App'x 1"]
+judges: ["PRESENT: RALPH K. WINTER, B.D. PARKER, DENNY CHIN, Circuit Judges."]
+parties: ["SECURITIES AND EXCHANGE COMMISSION, Plaintiff-Appellee, v. Phillip J. MILLIGAN, Defendant-Appellant, Grant R. Curtis, Leo Mangan, Timothy H. Masley, James W. Nearen, Raimond Irni, Pedro Dibrito Gomez, Donald E. Kessler, David R. Behanna, Andrea Varsi, Jonathan D. Lyons, Kenneth A. Orr, Lillian M. Vinci, Ann Marie Noel, Michael V. Lipkin, Joshua S. Shainberg, Robert L. Shatles, Defendants."]
+source_url: "https://static.case.law/f-appx/436/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5665824
+cites_cases: ["101 F.3d 1450", "17 C.F.R. § 240", "2009 WL 1162633", "316 F.3d 93", "321 F.3d 292", "336 F.3d 128", "352 F.3d 599", "393 F.3d 94", "425 F.3d 143", "470 F.Supp.2d 373", "534 F.3d 117", "61 F.3d 137"]
+---
+
+# Securities & Exchange Commission v. Milligan
+
+## Head matter
+
+SECURITIES AND EXCHANGE COMMISSION, Plaintiff-Appellee, v. Phillip J. MILLIGAN, Defendant-Appellant, Grant R. Curtis, Leo Mangan, Timothy H. Masley, James W. Nearen, Raimond Irni, Pedro Dibrito Gomez, Donald E. Kessler, David R. Behanna, Andrea Varsi, Jonathan D. Lyons, Kenneth A. Orr, Lillian M. Vinci, Ann Marie Noel, Michael V. Lipkin, Joshua S. Shainberg, Robert L. Shatles, Defendants.
+No. 09-2782-cv.
+United States Court of Appeals, Second Circuit.
+Aug. 19, 2011.
+Mark D. Cahn, General Counsel; Jacob H. Stillman, Solicitor; Mark Pennington, Assistant General Counsel; Catherine A. Broderick, to the Assistant General Counsel, Securities and Exchange Commission, Washington, D.C., for Plaintiff-Appellee.
+Phillip J. Milligan, New York, NY, pro se, Defendant-Appellant.
+PRESENT: RALPH K. WINTER, B.D. PARKER, DENNY CHIN, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+Defendant-Appellant Phillip J. Milligan, pro se, appeals from the district court’s final judgment and injunction granting Plaintiff-Appellee Securities and Exchange Commission (the “SEC”) summary judgment and various forms of relief, in connection with Milligan’s violations of Section 17(a) of the Securities Act of 1933, 15 U.S.C. § 77q(a); Section 10(b) of the Securities Exchange Act of 1934, 15 U.S.C. § 78j(b); and Rule 10b-5, 17 C.F.R. § 240.10b-5. We assume the parties’ familiarity with the facts, proceedings below, and issues on appeal.
+We review an order granting summary judgment de novo and ask whether the district court properly concluded that there were no genuine issues of material fact and that the moving party was entitled to judgment as a matter of law. See Miller v. Wolpoff & Abramson, L.L.P., 321 F.3d 292, 300 (2d Cir.2003). In determining whether there are genuine issues of material fact, we are “required to resolve all ambiguities and draw all permissible factual inferences in favor of the party against whom summary judgment is sought.” Terry v. Ashcroft, 336 F.3d 128, 137 (2d Cir.2003) (internal quotation marks omitted). “[Cjonclusory statements or mere allegations [are] not sufficient to defeat a summary judgment motion.” Davis v. New York, 316 F.3d 93, 100 (2d Cir. 2002).
+This Court reviews the imposition of disgorgement, civil penalties, and prejudgment interest for an abuse of discretion. See SEC v. AbsoluteFuture.com, 393 F.3d 94, 96 (2d Cir.2004) (per curiam) (disgorgement); SEC v. Kern, 425 F.3d 143, 153-54 (2d Cir.2005) (civil penalties); New England Ins. Co. v. Healthcare Underwriters Mut. Ins. Co., 352 F.3d 599, 602-03 (2d Cir.2003) (prejudgment interest). “A district court has abused its discretion if it based its ruling on an erroneous view of the law or on a clearly erroneous assessment of the evidence, or rendered a decision that cannot be located within the range of permissible decisions.” See In re Sims, 534 F.3d 117, 132 (2d Cir.2008) (citation, brackets, and internal quotation marks omitted).
+With respect to the district court’s grant of summary judgment, we affirm the district court’s judgment for substantially the reasons stated by the magistrate judge (Pohorelsky, M.J.) in his thorough and well-reasoned June 5, 2007 report and recommendation. See SEC v. Milligan, No. 99-CV-7357 (E.D.N.Y. June 5, 2007) (Po-horelsky, M.J.), ECF No. 272, adopted by SEC v. Milligan, No. 99-CV-7357 (E.D.N.Y. Oct. 2, 2007) (Gershon, J.), ECF No. 278.
+With respect to disgorgement, the record shows that the magistrate judge conducted an evidentiary hearing, considered the parties’ arguments and submissions, and evaluated Milligan’s credibility before concluding that (1) the SEC had met its burden of demonstrating that $93,600 was an appropriate amount to be disgorged and (2) Milligan failed to demonstrate his receipt of a lesser amount. SEC v. Milligan, 2009 WL 1162633, at *1-4 (E.D.N.Y. April 29, 2009); see SEC v. Patel, 61 F.3d 137, 139-40 (2d Cir.1995) (holding that disgorgement “need only be a reasonable approximation of profits causally connected to the violation,” and that any “risk of uncertainty in calculating disgorgement should fall on the wrongdoer whose illegal conduct created that uncertainty” (brackets and internal quotation marks omitted)).
+With respect to prejudgment interest, the magistrate judge, in accordance with SEC v. First Jersey Securities, Inc., 101 F.3d 1450, 1476 (2d Cir.1996), considered the requisite factors before recommending the imposition of a prejudgment interest award, noting specifically the remedial goals of the statutes that Milligan had violated and his refusal to accept responsibility for his unlawful conduct.
+Regarding the imposition of civil penalties, the record shows that, in reaching his decision to recommend third-tier civil penalties, the magistrate judge considered appropriate factors, such as Milli-gan’s financial status and the substantial risk of loss to his customers, as well as his participation in the fraudulent scheme, “persistent denial of responsibility” for such participation, and “blatant attempts to deceive the court in seeking to escape the consequences of his actions.” Milligan, No. 99-CV-7357, slip op. at 17-18 (E.D.N.Y. June 5, 2007); see SEC v. Haligiannis, 470 F.Supp.2d 373, 386 (S.D.N.Y. 2007) (“In determining whether civil penalties should be imposed, and the amount of the fine, courts look to a number of factors, including (1) the egregiousness of the defendant’s conduct; (2) the degree of the defendant’s scienter; (3) whether the defendant’s conduct created substantial losses or the risk of substantial losses to other persons; (4) whether the defendant’s conduct was isolated or recurrent; and (5) whether the penalty should be reduced due to the defendant’s demonstrated current and future financial condition.”).
+The magistrate judge balanced the requisite factors and considered the statutory requirements before recommending these forms of relief, and there is no indication that his recommendation, or the district court’s subsequent adoption of it, was based “on an erroneous view of the law or on a clearly erroneous assessment of the evidence,” or that the decisions reached “cannot be located within the range of permissible decisions.” See Sims, 534 F.3d at 132 (internal quotation marks omitted).
+We have considered Milligan’s other arguments on appeal and have found them to be without merit. Accordingly, the judgment of the district court is hereby AFFIRMED.
