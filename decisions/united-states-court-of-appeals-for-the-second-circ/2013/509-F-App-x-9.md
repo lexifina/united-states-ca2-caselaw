@@ -1,0 +1,42 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "10-1692-cv(L), 10-1702-cv(CON)"
+decided: "2013-01-29"
+citations: ["509 F. App'x 9"]
+judges: ["PRESENT: PIERRE N. LEVAL, REENA RAGGI, Circuit Judges and KENNETH M. KARAS, District Judge."]
+parties: ["Ronald MORALES, Ismael Hernandez, Plaintiffs-Appellants, v. Brian ROONEY, James Grace, Edmund Winterbottom, William Cosgrove, Thomas Connor, Wallace Thomas, Bruce Collins, Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/509/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4145863
+cites_cases: ["115 F.3d 116", "375 F.3d 206", "385 F.3d 210", "42 U.S.C. §§ 1981", "436 U.S. 658", "510 U.S. 17", "521 F.3d 130", "524 U.S. 775", "542 F.3d 290", "584 F.3d 487", "658 F.3d 225", "687 F.3d 554"]
+---
+
+# Morales v. Rooney
+
+## Head matter
+
+Ronald MORALES, Ismael Hernandez, Plaintiffs-Appellants, v. Brian ROONEY, James Grace, Edmund Winterbottom, William Cosgrove, Thomas Connor, Wallace Thomas, Bruce Collins, Defendants-Appellees.
+Nos. 10-1692-cv(L), 10-1702-cv(CON).
+United States Court of Appeals, Second Circuit.
+Jan. 29, 2013.
+Norman Pattis (Kelly A. Rommel, on the brief), The Pattis Law Firm, LLC, Bethany, CT, for appellants.
+Rachel V. Kushel, Durant, Nichols, Houston, Hodgson & Cortese-Costa, P.C., Bridgeport, CT, for appellees.
+PRESENT: PIERRE N. LEVAL, REENA RAGGI, Circuit Judges and KENNETH M. KARAS, District Judge.
+Judge Kenneth M. Karas, of the United States District Court for the Southern District of New York, sitting by designation.
+
+## Majority
+
+SUMMARY ORDER
+Plaintiffs Ronald Morales and Ismael Hernandez, former inspectors with the City of Bridgeport Fire Department (“Department”), appeal from an award of summary judgment in favor of defendants, various Department officials sued in their individual and official capacities under 42 U.S.C. §§ 1981 and 1983 for discriminatory termination based on race and ethnicity, as well as for perpetuation of a hostile work environment. We review an award of summary judgment de novo and will uphold the award only if the record evidence, viewed in the light most favorable to the non-moving party, reveals “no genuine dispute as to any material fact” and the movant’s entitlement to judgment as a matter of law. Fed.R.Civ.P. 56(a); see Ramos v. Baldor Specialty Foods, Inc., 687 F.3d 554, 558 (2d Cir.2012). The substantive standards for employment discrimination claims under §§ 1981 and 1983 mirror those for claims under Title VII, see 42 U.S.C. § 2000e et seq., except that the former provisions always require a showing of discriminatory intent, see Patterson v. County of Oneida, 375 F.3d 206, 226 (2d Cir.2004). In applying these principles here, we assume the parties’ familiarity with the facts and record of prior proceedings, which we reference only as necessary to explain our decision to affirm for substantially the reasons stated in the district court’s thorough decision.
+1. Discriminatory Termination
+On appeal, plaintiffs effectively concede that they committed termination-worthy offenses. Nevertheless, they submit that the record would permit a jury to find that their terminations were motivated by race and ethnicity. In support, they point to their own status as officers of the Bridgeport Hispanic Firefighters’ Association and defendant Rooney’s long-time membership in the Bridgeport Firefighters for Merit Employment (“BFME”), an organization whose commitment to the merit system in municipal employment, plaintiffs submit, signals hostility to racial and ethnic minorities. Casting Rooney as “a rival from a political battle drawn along racial line[s],” Appellants’ Br. 19, plaintiffs maintain that he and “his subordinates furthered the interests of the BFME by isolating the plaintiffs on account of their race ... for the purpose of eliminating them from the [Department],” id. at 11. Insofar as Caucasian inspectors were terminated for the same GPS-discovered infractions as was Morales, plaintiffs claim that defendants, to conceal their invidious motives, timed Morales’s discharge to coincide with those of “other undesirables.” Id. at 17.
+The problem with plaintiffs’ argument, as the district court correctly recognized, is that it rests on conclusory assertions unsupported by the requisite admissible evidence. See Major League Baseball Props., Inc. v. Salvino, Inc., 542 F.3d 290, 310 (2d Cir.2008) (reiterating that conclu-sory assertions do “not show the existence of a genuine issue of fact to be tried”). There is no need to repeat the district court’s detailed discussion of the evidentia-ry insufficiency of plaintiffs’ discrimination claims. We note only that, contrary to plaintiffs’ argument, the district court did not impermissibly weigh the evidence or resolve questions of credibility. Rather, it properly explained why plaintiffs’ concluso-ry claims and inadmissible assertions of fact were insufficient as a matter of law to permit a jury to find discriminatory discharge.
+Nor do plaintiffs raise a triable issue that Rooney, or any other defendant, acted with mixed legitimate and discriminatory motives. See Holcomb v. Iona Coll., 521 F.3d 130, 142 (2d Cir.2008) (allowing recovery where challenged “employment decision was motivated both by legitimate and illegitimate reasons”). Assuming that such a theory, which finds support in the text of Title VII, see Leibowitz v. Cornell Univ., 584 F.3d 487, 498 n. 2 (2d Cir.2009); 42 U.S.C. § 2000e-2(m), applies to suits brought under §§ 1981 and 1983, plaintiffs still were required to adduce evidence that did more than “hint[ ] at the possibility of unfair treatment on account of [plaintiffs’] race,” Fields v. N.Y. State Office of Mental Retardation, 115 F.3d 116, 124 (2d Cir.1997) (holding such showing insufficient to meet burden of production on mixed motive theory). They have failed to do so.
+Accordingly, summary judgment was proper on plaintiffs’ discrimination claims.
+2. Hostile Work Environment
+Relying on many of the same con-clusory or inadmissible assertions that fail to support their discrimination claims, plaintiffs fault the district court’s award of summary judgment on their hostile work environment claims. The district court carefully parsed the allegations with respect to each defendant before concluding that neither plaintiff had raised a triable issue of fact on these claims. In urging otherwise, plaintiffs cite to a few illustrative instances of alleged harassment, notably that Rooney once used the term “Mexican standoff’ to describe an encounter with plaintiffs in the hallway. See Hernandez Dep. 21:8-14, J.A. 115. While plaintiffs might subjectively have perceived this comment and other alleged behavior in the Department as inappropriate, these sporadic events are not “severe or pervasive enough to create an objectively hostile or abusive work environment” over the two to three years that plaintiffs remained under defendants’ supervision. Petrosino v. Bell Atl., 385 F.3d 210, 221 (2d Cir.2004) (internal quotation marks omitted); see Harris v. Forklift Sys., Inc., 510 U.S. 17, 21, 114 S.Ct. 367, 126 L.Ed.2d 295 (1993).
+The conclusion reached by the Labor Relations Department — upon investigating complaints of discrimination by Morales and Hernandez — “that the environment in [plaintiffs’ workplace] is contentious, confrontational, and disrespectful,” Labor Relations Investigation Report 7, J.A. 244, warrants no different result given that report’s express finding of “no evidence of a hostile work environment” in the form of illegal “harassment” or “discrimination,” id.; see Faragher v. City of Boca Raton, 524 U.S. 775, 788, 118 S.Ct. 2275, 141 L.Ed.2d 662 (1998) (reiterating that laws barring workplace hostility do not equal “general civility code” (internal quotation marks omitted)).
+Accordingly, summary judgment was proper on plaintiffs’ hostile work environment claims.
+3. Monell Claim
+Because plaintiffs offer no argument regarding the award of summary judgment on their official-capacity claims against defendants, see generally Monell v. Dep’t of Soc. Servs., 436 U.S. 658, 98 S.Ct. 2018, 56 L.Ed.2d 611 (1978), we deem those claims abandoned, see Jackler v. Byrne, 658 F.3d 225, 233 (2d Cir.2011) (treating as abandoned claims about which “brief on appeal contain[ed] no argument”).
+The judgment of the district court is AFFIRMED.
