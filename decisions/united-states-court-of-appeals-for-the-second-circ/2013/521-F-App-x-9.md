@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "11-3799-cv"
+decided: "2013-03-27"
+citations: ["521 F. App'x 9"]
+judges: ["PRESENT: WALKER, RICHARD C. WESLEY, PETER W. HALL, Circuit Judges."]
+parties: ["Rosalie APPEL, Plaintiff-Appellee, v. Charles P. SPIRIDON, Linda Vaden-Goad, Linda Rinker, Defendants-Appellants."]
+source_url: "https://static.case.law/f-appx/521/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5708118
+cites_cases: ["147 F.3d 103", "2011 WL 3651353", "246 F.3d 194", "264 F.3d 154", "28 U.S.C. § 1291", "356 F.3d 481", "426 F.3d 187", "429 U.S. 274", "463 F.Supp.2d 255", "472 U.S. 511", "523 U.S. 574"]
+---
+
+# Appel v. Spiridon
+
+## Head matter
+
+Rosalie APPEL, Plaintiff-Appellee, v. Charles P. SPIRIDON, Linda Vaden-Goad, Linda Rinker, Defendants-Appellants.
+No. 11-3799-cv.
+United States Court of Appeals, Second Circuit.
+March 27, 2013.
+See also 463 F.Supp.2d 255.
+John R. Williams, New Haven, CT, for appellant.
+Beth Z. Margulies, Assistant Attorney, General, for George Jepsen, Attorney, General of the State of Connecticut, Hartford, CT, for appellee.
+PRESENT: WALKER, RICHARD C. WESLEY, PETER W. HALL, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+Defendants-Appellants Linda Rinker, Linda Vaden-Goad, and Charles Spiridon appeal from the district court’s denial of qualified immunity in favor of plaintiff-appellee Rosalie Appel, embodied in the court’s Memorandum and Order dated August 18, 2011. Among other things, Appel claimed that defendants retaliated against her for bringing a lawsuit, in violation of Title VII of the Civil Rights Act of 1964, and that they violated her Fourteenth Amendment substantive due process right to privacy. On defendants’ motion for summary judgment, the district court denied qualified immunity with regard to these claims. We assume the parties’ familiarity with the underlying facts, procedural history, and specification of issues for review.
+We have jurisdiction to hear this interlocutory appeal because “a district court’s denial of a claim of qualified immunity, to the extent it turns on an issue of law, is an appealable ‘final decision’ within the meaning of 28 U.S.C. § 1291 notwithstanding the absence of a final judgment.” Mitchell v. Forsyth, 472 U.S. 511, 539, 105 S.Ct. 2806, 86 L.Ed.2d 411 (1985). “This is so even where the denial is in the context of a motion to dismiss or for summary judgment.” Luna, v. Pico, 356 F.3d 481, 486 (2d Cir.2004) (citations omitted). “This Court reviews de novo a district court’s decision ‘denying a government official’s motion for summary judgment on the basis of qualified immunity.’” Id. (quoting Cerrone v. Brown, 246 F.3d 194, 198 (2d Cir.2001)).
+Appel’s first claim is that defendants retaliated against her for filing this lawsuit by subjecting her to an escalating series of disciplinary measures. Defendants do not dispute, for purposes of this appeal, that Appel successfully established a prima facie case of discrimination. Instead, they maintain that the district court incorrectly applied Mt. Healthy City School District Board of Education v. Doyle, 429 U.S. 274, 287, 97 S.Ct. 568, 50 L.Ed.2d 471 (1977), which provides that “even if there is evidence that the adverse employment action was motivated in part by protected speech, the government can avoid liability if it can show that it would have taken the same adverse action in the absence of the protected speech.” Heil v. Santoro, 147 F.3d 103, 110 (2d Cir.1998).
+The district court, however, correctly construed this standard to indicate that the “controlling question” was “whether defendants can show indisputably that they would have taken the same adverse actions, namely implementation and enforcement of the [remediation plan] and the resulting progressive discipline against Appel, even in the absence of her protected speech.” Appel v. Spiridon, Nos. 06 cv 1177, 07 cv 1237, 2011 WL 3651353, at *12 (D.Conn. Aug. 18, 2011). For essentially the same reasons stated by the district court, we agree that a question of fact exists as to whether the defendants’ treatment of Appel after she filed her 2006 lawsuit, including the manner in which the remediation plan was implemented and enforced, was motivated by legitimate reasons or impermissible retaliation. We therefore affirm the district court’s denial of qualified immunity on Appel’s First Amendment claim.
+Appel’s second claim is that defendants violated her right to privacy by requesting that she show them her medical records in connection with a psychiatric examination she was required to undergo to continue teaching. We have held that invading or intending to invade the privacy of an employee’s medical or mental health records will violate the employee’s Fourteenth Amendment right to substantive due process if the employer’s intent is to “injure or to spite” the plaintiff. O’Connor v. Pierson, 426 F.3d 187, 203 (2d Cir.2005). Although “bare allegations of malice coupled with otherwise legitimate government action [generally] do not yield a viable constitutional elaim[,] ... where a more specific intent is actually an element of the plaintiffs claim as defined by clearly established law, it can never be objectively reasonable for a government official to act with the intent that is prohibited by law.” Locurto v. Safir, 264 F.3d 154, 169 (2d Cir.2001) (citing Crawford-El v. Britton, 523 U.S. 574, 587-88, 118 S.Ct. 1584, 140 L.Ed.2d 759 (1998)).
+The district court therefore properly focused its inquiry on whether there was “genuine issue of material fact whether the defendants sought access to Appel’s [records] out of a mistaken belief that they were entitled to them as a means of assessing her ability to continue in her duties, or whether the defendants were seeking ways to discredit and injure Ap-pel.” Appel, 2011 WL 3651353, at *18 (D.Conn. Aug. 18, 2011). In our view, however, the court clearly misconstrued testimony given by Rinker and Vaden-Goad at a preliminary injunction hearing to support the inference that defendants intended to view the content of the psychiatric evaluation they had ordered for Ap-pel. Appel was not required, or even requested, to “sign a broad medical-records release form.” Cf. O’Connor, 426 F.3d at 201. Ultimately, there is no evidence that defendants were seeking to review the content of the psychiatric evaluation or to inspect Appel’s medical or mental health records themselves. Rather, they merely sought to have a psychiatrist determine Appel’s fitness for duty. We conclude there was insufficient evidence for a jury to conclude that defendants had the required state of mind to violate Appel’s substantive due process right to privacy. We therefore reverse the district court’s denial of qualified immunity on Appel’s substantive due process claim.
+Finally, Rinker argues that the district court lacked personal jurisdiction over her with respect to the latter claim because she was dismissed from the first of Appel’s two lawsuits and was never properly added as a defendant after the cases were consolidated. We need not reach this issue, however, because we have concluded that Rinker would be entitled to qualified immunity on Appel’s substantive due process claim.
+We have considered defendants’ remaining arguments and find them to be without merit. For the foregoing reasons, the district court’s denial of qualified immunity is hereby AFFIRMED IN PART AND REVERSED IN PART. We remand for further proceedings consistent with this order.
