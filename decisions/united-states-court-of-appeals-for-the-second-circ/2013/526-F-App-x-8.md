@@ -1,0 +1,36 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "12-2561-cr"
+decided: "2013-05-28"
+citations: ["526 F. App'x 8"]
+judges: ["PRESENT: REENARAGGI, CHRISTOPHER F. DRONEY, Circuit Judges, and LEWIS A. KAPLAN, District Judge."]
+parties: ["UNITED STATES of America, Appellee, v. Harold N. HASSE, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/526/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4159035
+cites_cases: ["18 U.S.C. § 3553", "514 F.3d 256", "516 F.3d 122", "550 F.3d 180", "552 U.S. 38", "554 F.3d 240", "583 F.3d 108", "616 F.3d 174", "671 F.3d 255", "699 F.3d 265", "711 F.3d 129"]
+---
+
+# United States v. Hasse
+
+## Head matter
+
+UNITED STATES of America, Appellee, v. Harold N. HASSE, Defendant-Appellant.
+No. 12-2561-cr.
+United States Court of Appeals, Second Circuit.
+May 28, 2013.
+Brian P. Comerford (Jayme L. Feldman, Of Counsel, on the brief), Federal Public Defender’s Office, Western District of New York, Buffalo, N.Y., for Appellant.
+Stephan J. Baczynski, Assistant United States Attorney, for William J. Hochul, Jr., United States Attorney for the Western District of New York, Buffalo, N.Y., for Appellee.
+PRESENT: REENARAGGI, CHRISTOPHER F. DRONEY, Circuit Judges, and LEWIS A. KAPLAN, District Judge.
+The Honorable Lewis A. Kaplan, of the United States District Court for the Southern District of New York, sitting by designation.
+
+## Majority
+
+SUMMARY ORDER
+Harold Hasse, who stands convicted on a guilty plea of one count of receiving child pornography, see 18 U.S.C. § 2252A(a)(2)(A), challenges the substantive reasonableness of his 84-month prison sentence, a variance from his undisputed Guidelines range of 121 to 151 months’ imprisonment. In making this argument, Hasse carries a heavy burden because we review the reasonableness of a challenged sentence “under a ‘deferential abuse-of-discretion standard,’ ” United States v. Cavera, 550 F.3d 180, 189 (2d Cir.2008) (en banc) (quoting Gall v. United States, 552 U.S. 38, 41, 128 S.Ct. 586, 169 L.Ed.2d 445 (2007)), and recognize that a range of sentences can usually be identified as substantively reasonable, see id.; see also United States v. Rigas, 583 F.3d 108, 123 (2d Cir.2009) (comparing standard for substantive reasonableness review to “manifest-injustice” and “shocks-the-conscience” standards, which “provide relief only in the proverbial ‘rare case’ ”). We assume the parties’ familiarity with the facts and record of prior proceedings, which we reference only as necessary to explain our decision to affirm.
+Hasse contends that his sentence is substantively unreasonable because the district court placed disproportionate weight on the nature of the images he received and failed to consider various mitigating evidence. See 18 U.S.C. § 3553(a). The claim fails because the district court expressly stated that it had “considered all of [Hasse’s] mitigating and aggravating factors.” Sentencing Tr. 9:14-15; see United States v. Brown, 514 F.3d 256, 264, 270 (2d Cir.2008) (observing that sentencing judges are not required to employ “robotic incantations” or “any particular formula” to demonstrate consideration of § 3553(a) factors). While it characterized the images Hasse possessed as “horrific,” observing that they “depictfed] unspeakable acts being perpetrated on innocent young children,” Sentencing Tr. 13:2-4, it also stated that it had reviewed Hasse’s sentencing memorandum, as well as letters from him and his daughter detailing mitigating factors supporting leniency. Thus, contrary to Hasse’s assertions, the district court clearly stated that it had considered the very mitigating evidence Hasse highlights on appeal, and the fact that it accorded that evidence some weight is evident in its downward variance from the Guidelines. On substantive reasonableness review, we will generally not second-guess a district court’s assessment of how much weight to assign the various aggravating and mitigating factors informing sentence. See United States v. Gilliard, 671 F.3d 255, 260-61 (2d Cir.2012); United States v. Pope, 554 F.3d 240, 247 (2d Cir.2009).
+Equally meritless is Hasse’s argument that the district court impermissibly relied on his brother’s criminal conduct in sentencing Hasse. While the district court noted Hasse’s brother’s criminal activity, it told Hasse that it was “going by what [he] possessed,” as opposed to what his brother did. Sentencing Tr. 14:6-7.
+Insofar as Hasse argues that the district court erred in declining to rely on the psychological report of Dr. Tom Mazur, the record is to the contrary. The district court told Hasse that the reason it was “considering a non-guideline sentence” was “Dr. Mazur’s report, the lack of your prior conviction history, [and] the strong letter from your daughter.” Sentencing Tr. 21:7-11, 21-22 (further stating that “Dr. Mazur’s report indicates that you get the benefit of the doubt”). Thus, Hasse’s case is not akin to United States v. Dorvee, 616 F.3d 174 (2d Cir.2010), on which he relies. See id. at 183-84 (vacating sentence because, in part, district court ignored expert evidence and assumed facts that contradicted record evidence).
+To the extent that Hasse further relies on Dorvee to argue that the child pornography Guidelines themselves do not adequately take mitigating circumstances into account, that case does not support Hasse’s contention that any sentence above the 60-month statutory minimum is substantively unreasonable. See United States v. Broxmeyer, 699 F.3d 265, 291 (2d Cir.2012) (“When, in Dorvee, we vacated a statutory — and, therefore, Guidelines— maximum sentence of 20 years for the distribution of child pornography, expressing concern as to the ‘highly unusual provenance’ of the applicable Guidelines, we nowhere suggested that it would be an abuse of discretion for the district court to accord some weight to the referenced Guidelines in imposing a sentence above the statutory minimum.” (emphases in original) (citations omitted)).
+Nor can Hasse maintain that the district court’s “failure to justify” any sentence above the mandatory minimum was unreasonable. Appellant’s Reply Br. 2. Insofar as Hasse challenges the procedural reasonableness of his sentence, see United States v. Nouri, 711 F.3d 129, 146 (2d Cir.2013) (“A district court commits procedural error if it ... fails adequately to explain its chosen sentence.” (internal quotation marks omitted)), the district court provided an explanation for the challenged sentence “sufficient to inform the defendant and public of the reasons” why it imposed a term above the mandatory minimum but below the recommended Guidelines, United States v. Verkhoglyad, 516 F.3d 122, 133 (2d Cir.2008); see also United States v. Broxmeyer, 699 F.3d.at 297-98. Insofar as Hasse challenges his sentence as substantively unreasonable, we cannot say that Hasse’s 84-month prison sentence “cannot be located within the range of permissible decisions.” United States v. Cavera, 550 F.3d at 189 (internal quotation marks omitted).
+We have considered all of Hasse’s remaining arguments and find them to be without merit. Accordingly, we AFFIRM the judgment of the district court.
