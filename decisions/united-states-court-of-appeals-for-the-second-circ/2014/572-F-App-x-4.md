@@ -1,0 +1,36 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "12-3751"
+decided: "2014-07-07"
+citations: ["572 F. App'x 4"]
+judges: ["PRESENT: ROBERT D. SACK, REENA RAGGI, and SUSAN L. CARNEY, Circuit Judges."]
+parties: ["XIU ZHAN WU, Petitioner, v. Eric H. HOLDER, Jr., United States Attorney General, Respondent."]
+source_url: "https://static.case.law/f-appx/572/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4165549
+cites_cases: ["19 I. & N. Dec. 637", "25 I. & N. Dec. 209", "409 F.3d 43", "421 F.3d 149", "430 F.3d 77", "432 F.3d 391", "444 F.3d 148", "471 F.3d 315", "480 F.3d 160", "496 F.3d 268", "534 F.3d 162", "677 F.3d 130", "8 U.S.C. § 1158", "8 U.S.C. § 1252"]
+---
+
+# Xiu Zhan Wu v. Holder
+
+## Head matter
+
+XIU ZHAN WU, Petitioner, v. Eric H. HOLDER, Jr., United States Attorney General, Respondent.
+No. 12-3751.
+United States Court of Appeals, Second Circuit.
+July 7, 2014.
+Yee Ling Poon, Robert Duk-Hwan Kim (on the brief), New York, NY, for Petitioner.
+Stuart F. Delery, Assistant Attorney General; Daniel E. Goldman, Senior Litigation Counsel; Nicole N. Murley, Trial Attorney, Office of Immigration Litigation, United States Department of Justice, Washington, D.C., for Respondent.
+PRESENT: ROBERT D. SACK, REENA RAGGI, and SUSAN L. CARNEY, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+Xiu Zhan Wu, a native and citizen of China, seeks review of an August 24, 2012, decision of the BIA affirming an Immigration Judge’s (“IJ”) November 23, 2010 denial of asylum, withholding of removal, and relief under the Convention Against Torture (“CAT”). In re Xiu Zhan Wu, No. [ AXXX XXX XXX ] (B.I.A. Aug. 24, 2012), aff'g No. [ AXXX XXX XXX ] (Immig. Ct. N.Y. City Nov. 23, 2010). We assume the parties’ familiarity with the underlying facts and procedural history of this case.
+Under the circumstances of this case, we have reviewed both the BIA’s and IJ’s decisions. See Yun-Zui Guan v. Gonzales, 432 F.3d 391, 394 (2d Cir.2005). The applicable standards of review are well-established. See 8 U.S.C. § 1252(b)(4)(B); see also Xiu Xia Lin v. Mulcasey, 534 F.3d 162, 165-66 (2d Cir.2008); Li Yang Cao v. United States DOJ, 421 F.3d 149, 156 (2d Cir.2005).
+For asylum applications, like Wu’s, governed by the REAL ID Act, the agency may, “[c]onsidering the totality of the circumstances,” base a credibility finding on inconsistencies in the applicant’s statements and other record evidence without regard to whether they go “to the heart of the applicant’s claim,” demeanor and responsiveness to questioning, and the “inherent plausibility” of the applicant’s account. 8 U.S.C. § 1158(b)(l)(B)(iii); Xiu Xia Lin, 534 F.3d at 163-64. Substantial evidence supports the agency’s adverse credibility determination, specifically, Wu’s admission, under oath, that she lied during her asylum interview by providing false or exaggerated answers with respect to the date and circumstances of her undisputed sterilization in order to strengthen her claim that the sterilization was forced. Although Wu explained that she lied on advice of an assistant to a lawyer hired by a “snakehead,” the agency was not required to credit her explanation. See Majidi v. Gonzales, 430 F.3d 77, 80-81 (2d Cir.2005) (“A petitioner must do more than offer a plausible explanation for his inconsistent statements to secure relief; he must demonstrate that a reasonable fact-finder would be compelled to credit his testimony.” (internal quotation marks and citations omitted)). Moreover, the agency was not required to credit her testimony of forced sterilization given her acknowledged lies on this matter. See Siewe v. Gonzales, 480 F.3d 160, 170 (2d Cir.2007) (noting that “single instance of false testimony may (if attributable to the petitioner) infect the balance of the alien’s uncorroborated or unauthenticated evidence”); see also 8 U.S.C. § 1158(b)(l)(B)(iii) (“There is no presumption of credibility[.]”). Thus, we conclude that the record falsity provides substantial evidence supporting the agency’s adverse credibility finding.
+Given this lack of credibility, the agency properly considered the absence of corroborating evidence. See Biao Yang v. Gonzales, 496 F.3d 268, 273 (2d Cir.2007). While the agency agreed that the medical documentation confirmed Wu’s sterilization, the record supports the agency’s conclusion that there was no evidence of when the procedure took place or whether it was involuntary. The agency also reasonably declined to credit the letter from Wu’s husband. See Matter of H-L-H- & Z-Y-Z-, 25 I. & N. Dec. 209, 215 (B.I.A.2010) (giving diminished evidentiary weight to letters from relatives because they were “interested witnesses who were not subject to cross-examination”) overruled on other grounds by Hui Lin Huang v. Holder, 677 F.3d 130, 133-38 (2d Cir.2012); see also Xiao Ji Chen v. U.S. Dep’t of Justice, 471 F.3d 315, 342 (2d Cir.2006) (explaining that weight given to applicant’s evidence lies largely within discretion of agency).
+Given that Wu’s own testimony was called into question by fabrications at her asylum interview and that she provided no corroborating evidence from a non-interested party that her sterilization was forced, the agency reasonably found her to have failed credibly to demonstrate past persecution. See Xiu Xia Lin, 534 F.3d at 167. As all of Wu’s claims share the same factual predicate, that determination is dis-positive as to asylum, withholding of removal, and CAT relief. See Paul v. Gonzales, 444 F.3d 148, 156-57 (2d Cir.2006).
+Nor has Wu shown that the BIA abused its discretion by denying remand due to alleged ineffective assistance of counsel. Li Yong Cao, 421 F.3d at 151, 156-57. The BIA denied remand because Wu had not substantially complied with the requirements for an ineffective assistance claim set forth in In re Lozada, 19 I. & N. Dec. 637 (B.I.A.1988), and had failed to provide any evidence showing that she had ever been represented by attorney Hak Tung Lam. Notably, Wu provided no details of any agreement with Lam or any proof that she had notified him of her allegations. Lam never filed a notice of appearance nor did he appear at any of Wu’s immigration hearings. Given this lack of evidence of representation and lack of compliance with the Lozada requirements, the BIA did not abuse its discretion in denying remand. Jian Yun Zheng v. U.S. DOJ, 409 F.3d 43, 46 (2d Cir.2005).
+Insofar as Wu now argues that we should remand to allow her to present the agency with further evidence in support of her asylum claim, specifically, a press release about Lam’s misconduct, we decline to do so as she fails to show that it would alter the result in her case. See Li Yong Cao, 421 F.3d at 156 (noting that petitioners seeking remand due to new evidence face heavy burden of demonstrating likelihood that new evidence would alter result in case).
+For the foregoing reasons, the petition for review is DENIED. As we have completed our review, any stay of removal that the Court previously granted in this petition is VACATED, and any pending motion for a stay of removal in this petition is DISMISSED as moot. Any pending request for oral argument in this petition is DENIED in accordance with Federal Rule of Appellate Procedure 34(a)(2), and Second Circuit Local Rule 34.1(b).
