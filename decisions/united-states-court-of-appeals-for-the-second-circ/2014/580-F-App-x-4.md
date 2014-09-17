@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "12-3670"
+decided: "2014-09-17"
+citations: ["580 F. App'x 4"]
+parties: ["Pedro Rafael ROIG, aka Peter Roig, Petitioner, v. Eric H. HOLDER, Jr., United States Attorney General, Respondent."]
+source_url: "https://static.case.law/f-appx/580/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4254904
+cites_cases: ["19 I. & N. Dec. 837", "378 F.3d 173", "421 F.3d 125", "598 F.3d 103", "8 U.S.C. §§ 1227"]
+---
+
+# Roig v. Holder
+
+## Head matter
+
+Pedro Rafael ROIG, aka Peter Roig, Petitioner, v. Eric H. HOLDER, Jr., United States Attorney General, Respondent.
+No. 12-3670.
+United States Court of Appeals, Second Circuit.
+Sept. 17, 2014.
+Steven Wizner, Supervising Attorney; Diana R. Blank, Of Counsel; Emily Rock and Alaina Varvaloucas, Law Student Interns; Jerome N. Frank Legal Services Organization, New Haven, Connecticut, for Petitioner.
+Stuart F. Delery, Assistant Attorney General; Eric W. Marsteller, Senior Litigation Counsel; Jane T. Schaffner, Trial Attorney, Office of Immigration Litigation, Civil Division, United States Department of Justice, Washington, D.C., for Respondent.
+PRESENT: ROBERT D. SACK, GERARD E. LYNCH, Circuit Judges, VERNON S. BRODERICK, District Judge.
+Judge Vernon S. Broderick, of the United States District Court for the Southern District of New York, sitting by designation.
+
+## Majority
+
+SUMMARY ORDER
+Pedro Rafael Roig, also known as Peter Roig, a native and citizen of Cuba, seeks review of an August 16, 2012, decision of the BIA affirming the February 16, 2012, decision by an Immigration Judge (“IJ”) denying deferral of removal under the Convention Against Torture (“CAT”). We assume the parties’ familiarity with the underlying facts and procedural history of the case.
+We generally lack jurisdiction to review the removal order of an alien who, like Roig, was found removable by reason of having committed an aggravated felony. 8 U.S.C. §§ 1227(a)(2)(A)(iii); 1252(a)(2)(C). To the extent our jurisdiction to review the denial of deferral of removal under the CAT is unresolved, see De La Rosa v. Holder, 598 F.3d 103, 107 (2d Cir.2010), we may assume jurisdiction and deny a petition on the merits where, as here, the agency denied petitioner’s claim and his underlying challenges to that decision are without merit. Abimbola v. Ashcroft, 378 F.3d 173, 180 (2d Cir.2004).
+Contrary to Roig’s argument, the IJ explicitly considered the separate and cumulative effect of Roig’s personal circumstances on the likelihood that he will be arrested and tortured in Cuba. The IJ considered whether Cuban authorities were likely to arrest Roig because of his homosexuality, disabilities, or criminal history. The IJ also considered Roig’s claim that guards and other prisoners would target him based on sexual orientation and pleas for scarce medical resources. The IJ did so without conflating those claims with Roig’s separate argument that a lack of medical care might amount to torture.
+In assessing those claims, the IJ reasonably found the likelihood of his arrest to be speculative. The evidence provided by an academic expert witness regarding the treatment of gay men in Cuba was outdated, from the 1960s and 1970s. The witness also testified to anecdotal evidence of recent arrests of homosexual men, and Roig corroborated that testimony with articles indicating that Cuban police continued to fine men who congregated in alleged “homosexual meetings,” or who engaged in public demonstrations. The IJ, however, reasonably found it speculative that Roig would be arrested because these arrests were isolated. The record contained evidence, on which the IJ was entitled to rely, that the Cuban government has become less intolerant of homosexuals, including evidence that former President Fidel Castro publicly accepted responsibility for past mistreatment of gay men; that the Cuban legislature passed and has begun developing laws assuring equal rights for homosexuals and has committed Cuba as a signatory to the United Nations Declaration on Sexual Orientation and Gender Identity; and that Castro’s daughter leads a movement promoting gay rights, which has included the celebration of an International Day Against Homophobia in Havana. We need not, and do not, conclude that Cuba fully respects the equal rights of sexual minorities; we hold only that the agency’s conclusion that it is not more likely than not that Roig will be arrested on the basis of sexuality is supported by substantial evidence in the record, the weight of which is for the agency to determine. See Jian Xing Huang v. U.S. INS, 421 F.3d 125, 129 (2d Cir.2005) (per curiam) (holding that a fear is merely speculative and not objectively reasonable absent support in the record).
+Similarly, the IJ reasonably found that Roig’s fear of being arrested for social dangerousness due to his criminal history, lack of family ties, and inability to work were unsupported by the record. Cuban law permits the preemptive detention of individuals deemed likely to commit a crime — so-called “socially dangerous” individuals — and has enforced it against political dissidents and individuals who work in the private sector. However, Roig testified that he was not politically active in the United States, and the IJ reasonably found speculative Roig’s assertion that he would be unable to find employment with the Cuban government based on his physical disability. And there is no evidence in the record that people with disabilities are routinely arrested as “socially dangerous.”
+Finally, as we read the record, the IJ did not fail to understand that Roig’s claim was based on -a combination of factors. In evaluating the claim, the agency necessarily considered the likelihood that each of the factors relied on would lead to Roig’s arrest, and concluded that none of them, individually or in combination, made it more likely than not that Roig would be arrested, and therefore exposed to prison mistreatment that allegedly could be considered tantamount to torture.
+Because Roig’s claim was predicated on his likely arrest once returned to Cuba, and because the IJ reasonably found that the evidence did not demonstrate that he would likely be detained, we need not address the remainder of Roig’s arguments.
+For the foregoing reasons, the petition for review is DENIED. As we have completed our review, the stay of removal that the Court previously granted is VACATED.
+. Roig also offered testimony that many individuals deported to Cuba after coming to the United States in the Mariel boatlift were imprisoned in Cuba upon arrival. See Matter of Barrera, 19 I. & N. Dec. 837 (B.I.A.1989). The IJ declined to rely on this testimony to find that Roig would be interrogated, screened and subject to imprisonment based on his criminal history in the United States, noting the absence of any evidence in the record that this practice continued in the present. That factual finding was not unreasonable. We note, however, that Cuba is apparently not accepting deportees from the United States at this time. We cannot predict whether such practices will be adopted in the future if and when Cuba resumes accepting deportees. We express no view as to whether Roig would be able to reopen his case before the agency based on evidence regarding the prevailing circumstances when his removal becomes possible. See 8 C.F.R. §§ I003.2(c)(3)(ii), 1003.23(b)(4)(i).
