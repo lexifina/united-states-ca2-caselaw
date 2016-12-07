@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the Second Circuit"
+docket: "15-3948-cv"
+decided: "2016-12-07"
+citations: ["671 F. App'x 4"]
+judges: ["PRESENT: GUIDO CALABRESI, REENA RAGGI, GERARD E. LYNCH, Circuit Judges."]
+parties: ["Ewart BURTON, Plaintiff-Appellant, v. UNDERCOVER OFFICER, #155 individually, Police Officer Billy Choi, Defendants-Appellees, New York City Police Department, John Does 1 through 5, individually, Defendants."]
+source_url: "https://static.case.law/f-appx/671/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12388545
+cites_cases: ["180 F.3d 409", "2013 WL 685382", "222 F.3d 99", "310 F.3d 280", "331 F.3d 63", "336 F.3d 72", "42 U.S.C. § 1983", "439 U.S. 322", "520 F.3d 178", "550 U.S. 544", "556 U.S. 662", "58 L.Ed.2d 562", "752 F.3d 234", "777 F.3d 106", "82 F.3d 563", "944 F.2d 91", "963 F.2d 630", "99 S.Ct. 646"]
+---
+
+# Burton v. Undercover Officer
+
+## Head matter
+
+Ewart BURTON, Plaintiff-Appellant, v. UNDERCOVER OFFICER, #155 individually, Police Officer Billy Choi, Defendants-Appellees, New York City Police Department, John Does 1 through 5, individually, Defendants.
+No. 15-3948-cv
+United States Court of Appeals, Second Circuit.
+December 7, 2016
+FOR APPELLANT: Ewart Burton, pro se, Brooklyn, New York.
+FOR APPELLEES: Deborah A. Brenner, Susan Paulson, Assistant Corporation Counsels, for Zachary W. Carter, Corporation Counsel of the City of New York, New York, New York.
+PRESENT: GUIDO CALABRESI, REENA RAGGI, GERARD E. LYNCH, Circuit Judges.
+
+## Majority
+
+SUMMARY ORDER
+Appellant Ewart Burton, proceeding pro se, appeals the dismissal of his claims of false arrest, malicious prosecution, and abuse of process under 42 U.S.C. § 1983. We assume the parties’ familiarity with the underlying facts, the procedural history of the case, and the issues on.appeal, which we reference only as necessary to explain our decision to affirm in part and to vacate and remand in part.
+We review de novo the dismissal of a complaint, accepting all alleged facts as true and drawing all reasonable inferences in plaintiff’s favor. See Barrows v. Burwell, 777 F.3d 106, 111 (2d Cir. 2015). Nevertheless, “bald assertions and conclusions of law will not suffice.” Spool v. World Child Int’l Adoption Agency, 520 F.3d 178, 183 (2d Cir. 2008) (internal quotation marks omitted); see Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009). Rather, the complaint must plead “enough facts to state a claim to relief that is plausible on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007).
+The district court properly dismissed Burton’s claims of false arrest based on the doctrine of collateral estoppel. “Collateral estoppel, or issue preclusion, prevents parties or their privies from relitigating in a subsequent action an issue of fact or law that was fully and fairly litigated in a prior proceeding.” Marvel Characters, Inc. v. Simon, 310 F.3d 280, 288 (2d Cir. 2002). It may be applied non-mutually; third-parties may raise collateral estoppel defensively against a party who had fully and fairly litigated an issue to prevent that party from raising the same issue in a,, subsequent lawsuit. See ACLI Gov’t Sec., Inc. v. Rhoades, 963 F.2d 630, 633 (2d Cir. 1992) (citing Parklane Hosiery Co., Inc. v. Shore, 439 U.S. 322, 326-31, 99 S.Ct. 646, 58 L.Ed.2d 562 (1979) (noting that “doctrine of mutuality, at least for defensive use of collateral estoppel, no longer applies”)). For the doctrine to apply, a party must show that “(1) the identical issue was raised in a previous proceeding; (2) the issue was actually litigated and decided in the previous proceeding; (3) the party had a full and fair opportunity to litigate the issue; and (4) the resolution of the issue was necessary to support a valid and final judgment on the merits.” Marvel Characters, Inc. v. Simon, 310 F.3d at 288-89 (internal quotation marks and citation omitted).
+In a prior lawsuit, Burton litigated whether there was probable cause for .his March 2011 arrest. The district court ruled that there was probable cause for .two of the five charges. See Sherwyn Toppin Mktg. Consultants, Inc. v. City of New York, No. 08 CV 1340 ERK WP, 2013 WL 685382, at *8 (E.D.N.Y. Feb. 25, 2013). Therefore, collateral estoppel bars Burton’s new false arrest claim. See Boyd v. City of New York, 336 F.3d 72, 75 (2d Cir. 2003) (“If there was probable cause for the arrest, then a false arrest claim will fail.”).
+Burton’s malicious prosecution claim, however, cannot be resolved based on collateral estoppel. While probable cause is a complete defense to a claim of malicious prosecution, such probable cause must be shown as to each criminal charge underlying the malicious prosecution claim. See Savino v. City of New York, 331 F.3d 63, 72 (2d Cir. 2003) (holding probable cause to be complete defense to malicious prosecution); Posr v. Doherty, 944 F.2d 91, 100 (2d Cir. 1991) (requiring separate probable cause analysis for each prosecution charge); see also Lowth v. Town of Cheektowaga, 82 F.3d 563, 571 (2d Cir. 1996) (separately analyzing probable cause for three charges). In the prior case, the district court determined probable cause for only two of the five charges for which Burton was prosecuted. That partial probable cause determination thus does not defeat Burton’s malicious prosecution claim in its entirety.
+Burton’s malicious prosecution and abuse of process claims—the latter not addressed by the court—nevertheless fail because they are not supported by the factual allegations necessary to state a plausible claim. See Ashcroft v. Iqbal, 556 U.S. at 678, 129 S.Ct. 1937; Morales v. City of New York, 752 F.3d 234, 238 (2d Cir. 2014) (concluding that plaintiff failed to state abuse of process claim without allegation that defendants acted with ulterior motive or purpose in pursuing arrest and failed to state malicious prosecution claim without allegation that defendants were motivated by actual malice); see also Posr v. Court Officer Shield No. 207, 180 F.3d 409, 417 (2d Cir. 1999) (affirming dismissal of pro se litigant’s malicious prosecution claims). Still, where, as here, a plaintiff proceeds pro se, the district court should not dismiss on this ground without first considering whether “a liberal reading of the complaint gives any indication that a valid [malicious prosecution or abuse of process] claim might be stated” if Burton were granted leave to amend. Cuaco v. Moritsugu, 222 F.3d 99, 112 (2d Cir. 2000) (internal quotation marks omitted). Accordingly, we remand for that purpose. Burton may wish to request that the district court appoint counsel.
+We have considered all of Burton’s remaining arguments and find them to be without merit. Accordingly, we AFFIRM the judgment of dismissal as to the false arrest claim, but VACATE dismissal of the malicious prosecution and abuse of process claims. We REMAND this case for further proceedings consistent with this order.
